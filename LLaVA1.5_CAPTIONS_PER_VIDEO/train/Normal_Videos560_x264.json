@@ -1,0 +1,918 @@
+{
+  "video": "Normal_Videos560_x264.mp4",
+  "total_segments": 228,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it down an alleyway between buildings that have fences around them"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The scene shows a group of motorcycles parked outside, with some people standing nearby and others riding bicycle on the street next to them all together creating an urban setting atmosphere where different"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The motorcycles are parked outside of a building, and there's also bicycle on the sidewalk next to them with its rider sitting down beside it while another person stands nearby"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The street has a row of motorcycles parked on the sidewalk, and there are two bicycle riders passing by them with their backpacks attached to each bike's"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with people riding it around town square area where some shops have their doors open"
+    },
+    {
+      "segment_id": 5,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with its rider sitting next to it outside an open gate or fence near some bushes"
+    },
+    {
+      "segment_id": 6,
+      "caption": "The motorcycles are parked on the side of a street, and there's also bicycle with two people riding it near some buildings that have signs posted outside them as well as"
+    },
+    {
+      "segment_id": 7,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street with people riding it around town square area of city center near some shops or businesses"
+    },
+    {
+      "segment_id": 8,
+      "caption": "The motorcycles are parked outside of a building, and there's also bicycle on the sidewalk next to them with its rider standing nearby it while looking at something else inside"
+    },
+    {
+      "segment_id": 9,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it near some fences by buildings that have signs posted to them for"
+    },
+    {
+      "segment_id": 10,
+      "caption": "The scene shows a group of motorcycles parked outside an Asian restaurant, with people standing around them and some bicycle riders nearby as well on the street corner near buildings that have signs"
+    },
+    {
+      "segment_id": 11,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 12,
+      "caption": "Motorcycles are parked outside a building, and some people ride them down the street as well on their way to work or other destinations during daytime hours of late afternoon through early evening time"
+    },
+    {
+      "segment_id": 13,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with people riding it around an intersection or alleyway next to some buildings that"
+    },
+    {
+      "segment_id": 14,
+      "caption": "Two people are riding a motorcycle down the street, passing by parked scooters and bicycles on both sides of them as they ride past an iron fence with greenery behind"
+    },
+    {
+      "segment_id": 15,
+      "caption": "The scene shows a man riding his bike down the street, with several motorcycles parked nearby and some people standing around them on both sides of an alleyway between buildings that have"
+    },
+    {
+      "segment_id": 16,
+      "caption": "Two people are riding bicycles down a street with parked motorcyles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 17,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it down an alleyway between buildings that have fences around them"
+    },
+    {
+      "segment_id": 18,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 19,
+      "caption": "The man on the motorcycle has stopped to look at something, and there are other people nearby as well with a fence behind them all."
+    },
+    {
+      "segment_id": 20,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it near some fences by buildings that have signs posted to them for"
+    },
+    {
+      "segment_id": 21,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with its basket full sitting next to them outside an open garage doorway near some bushes"
+    },
+    {
+      "segment_id": 22,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with people riding it around town square area where some shops have their doors open"
+    },
+    {
+      "segment_id": 23,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with fencing around them to keep people out of it while they ride"
+    },
+    {
+      "segment_id": 24,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near fences that separate different areas of"
+    },
+    {
+      "segment_id": 25,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence area near buildings"
+    },
+    {
+      "segment_id": 26,
+      "caption": "People are standing next to a row of motorcycles and bicycle parked on the sidewalk outside an Asian restaurant, with some people also riding scooters nearby as well."
+    },
+    {
+      "segment_id": 27,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby with people riding them down an alleyway between buildings that have fences"
+    },
+    {
+      "segment_id": 28,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some scooters present as well."
+    },
+    {
+      "segment_id": 29,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it down an alleyway between buildings that have fences around them"
+    },
+    {
+      "segment_id": 30,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near fences"
+    },
+    {
+      "segment_id": 31,
+      "caption": "People are riding motorcycles and bicycle on a street with fences, bushes or trees lining the sides of it as well as parked vehicles nearby such as cars & sc"
+    },
+    {
+      "segment_id": 32,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 33,
+      "caption": "People are riding motorcycles down a street with parked bikes and potted plants on the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 34,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 35,
+      "caption": "Two people are riding motorcycles down a street, passing by parked bikes and fences on the side of buildings with signs above them that say \"Philip\" or other words"
+    },
+    {
+      "segment_id": 36,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence near buildings that"
+    },
+    {
+      "segment_id": 37,
+      "caption": "Motorcycles are parked on the side of a street, and people ride bicycle down it as well with some motorbikes also present at that location"
+    },
+    {
+      "segment_id": 38,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it and some people walking around as well, all captured by CCTV camera footage from April to"
+    },
+    {
+      "segment_id": 39,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence near buildings that"
+    },
+    {
+      "segment_id": 40,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it and some people walking around as well, all captured by CCTV camera footage from April to"
+    },
+    {
+      "segment_id": 41,
+      "caption": "The street has a few motorcycles parked on the side of it, and there are people riding bicycle down an alleyway between buildings with fences along them as well some"
+    },
+    {
+      "segment_id": 42,
+      "caption": "Two people are riding bikes down a street with parked motorcycles on the side of it, and there's also some sort of camera or video device capturing their ride for view"
+    },
+    {
+      "segment_id": 43,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 44,
+      "caption": "The street has a group of motorcycles parked on the sidewalk, and there are people riding bicycle down it as well with some standing around them near fences or buildings that"
+    },
+    {
+      "segment_id": 45,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway to their left"
+    },
+    {
+      "segment_id": 46,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 47,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street next to them with its basket full of stuff sitting by some bushes near fence gate that"
+    },
+    {
+      "segment_id": 48,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 49,
+      "caption": "People are riding motorcycles down a street, and there's also some bicycle riders present as well on the same roadway with parked cars nearby at an intersection of streets"
+    },
+    {
+      "segment_id": 50,
+      "caption": "a little girl riding on the back of motorcycle with her helmet and jacket visible as she enjoys herself while traveling down an alleyway between buildings, surrounded by parked sc"
+    },
+    {
+      "segment_id": 51,
+      "caption": "Two people are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 52,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street with some people around it as well."
+    },
+    {
+      "segment_id": 53,
+      "caption": "The street has a row of parked motorcycles and bicycle, with some people standing nearby on the sidewalk next to buildings that have signs posted outside them for advertising purposes or other"
+    },
+    {
+      "segment_id": 54,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it near some buildings that have signs posted outside them as well as p"
+    },
+    {
+      "segment_id": 55,
+      "caption": "Two people are riding a motorcycle down the street, passing by parked bikes and other vehicles on their way to work or another destination during daytime hours of April first weekend at around"
+    },
+    {
+      "segment_id": 56,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town during daytime hours of April first week"
+    },
+    {
+      "segment_id": 57,
+      "caption": "Two people are riding a motorcycle down the street, passing by parked scooters and bikes on both sides of them as they travel through an alleyway between buildings with fences"
+    },
+    {
+      "segment_id": 58,
+      "caption": "People are riding motorcycles on a street with fences and bushes nearby, some of them parked outside buildings or shops while others ride down the road together as they pass by each"
+    },
+    {
+      "segment_id": 59,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 60,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street next to them with people riding it around town square area of city center where they can be"
+    },
+    {
+      "segment_id": 61,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 62,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby with people riding them down an alleyway between buildings that have fences"
+    },
+    {
+      "segment_id": 63,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 64,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near an alleyway between buildings that"
+    },
+    {
+      "segment_id": 65,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near an iron fence that separates"
+    },
+    {
+      "segment_id": 66,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 67,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near an alleyway between buildings that"
+    },
+    {
+      "segment_id": 68,
+      "caption": "People are riding motorcycles and bicycle on a street with fences, bushes or plants nearby as well some people standing around the area near parked vehicles like scooters &"
+    },
+    {
+      "segment_id": 69,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 70,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 71,
+      "caption": "Motorcycles are parked outside a building, and there's an Asian man standing next to them on the street corner of his motorcycle shop with fences around it for security purposes against potential"
+    },
+    {
+      "segment_id": 72,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with signs attached to them by chains or ropes that keep it"
+    },
+    {
+      "segment_id": 73,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street next to them with people riding it around town square area of city center where shops can"
+    },
+    {
+      "segment_id": 74,
+      "caption": "The motorcycles are parked outside of a building, and there's also some bicycle traffic on the street as well with people riding them around town near an alleyway between"
+    },
+    {
+      "segment_id": 75,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves growing out of them next to an iron fence that"
+    },
+    {
+      "segment_id": 76,
+      "caption": "The scene shows a group of motorcycles parked outside an Asian restaurant, with people walking by and sitting on the sidewalk nearby as wells some bicycle riders passing through alley"
+    },
+    {
+      "segment_id": 77,
+      "caption": "Two people are riding bicycles down a street with parked motorcyles on the side of it, and there's also some scooters present as well near them while they ride"
+    },
+    {
+      "segment_id": 78,
+      "caption": "The motorcycles are parked outside of a building, and there's also some bicycle traffic on the street as well with people riding them around town during daytime hours at an"
+    },
+    {
+      "segment_id": 79,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street next to them with people riding it around town square area of city center where they can be"
+    },
+    {
+      "segment_id": 80,
+      "caption": "The scene shows a group of motorcycles parked outside, with people standing around them and some bicycle riders nearby as well on the street corner near an alleyway entrance to buildings"
+    },
+    {
+      "segment_id": 81,
+      "caption": "The scene shows a group of motorcycles parked on the sidewalk, with people riding bicycle and scooters nearby as well."
+    },
+    {
+      "segment_id": 82,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves growing out of them next to it all along an al"
+    },
+    {
+      "segment_id": 83,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 84,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town during daytime hours of operation for business"
+    },
+    {
+      "segment_id": 85,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town during daytime hours of operation for business"
+    },
+    {
+      "segment_id": 86,
+      "caption": "The man on the motorcycle has stopped to pick up a box from someone standing next door, while other people are riding bikes down an alleyway with parked cars and scooters"
+    },
+    {
+      "segment_id": 87,
+      "caption": "Motorcycles are parked outside a building, and people can be seen walking around the area with bicycle carts attached to them on their backs or sides of motorbikes as they"
+    },
+    {
+      "segment_id": 88,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people standing around outside near fences or gates to their property while"
+    },
+    {
+      "segment_id": 89,
+      "caption": "The motorcycles are parked outside of a building, and there's also some bicycle traffic on the street as well with people riding them around town during daytime hours at night"
+    },
+    {
+      "segment_id": 90,
+      "caption": "The motorcycles are parked outside of a building, and there's also bicycle on the street as well with some people around it all day long at night time too!"
+    },
+    {
+      "segment_id": 91,
+      "caption": "The scene shows a group of motorcycles parked on the sidewalk, with some people standing nearby and others riding bicycle through an alleyway between buildings near trees that are growing"
+    },
+    {
+      "segment_id": 92,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with its rider sitting next to it outside an open garage doorway near some bushes"
+    },
+    {
+      "segment_id": 93,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 94,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with its basket full sitting next to them outside an alleyway gate or fence that leads"
+    },
+    {
+      "segment_id": 95,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that sell"
+    },
+    {
+      "segment_id": 96,
+      "caption": "The scene shows a group of motorcycles parked on the sidewalk, with people riding them and others walking by or standing nearby as they go about their day at an intersection near some buildings"
+    },
+    {
+      "segment_id": 97,
+      "caption": "The person riding the bike has a hat on and they are passing by parked motorcycles, bicycle racks with multiple cycles attached to them as well as some other vehicles like"
+    },
+    {
+      "segment_id": 98,
+      "caption": "The man walks down the street with his bicycle, passing by a row of parked motorcycles and mopeds on both sides as he goes through an alleyway between buildings"
+    },
+    {
+      "segment_id": 99,
+      "caption": "The man standing on the sidewalk has a hat and sunglasses, while motorcycles are parked nearby along with bicycle riders waiting for their turn to ride through an al"
+    },
+    {
+      "segment_id": 100,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves growing out of them by fence gate that has white"
+    },
+    {
+      "segment_id": 101,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near an iron fence that surrounds"
+    },
+    {
+      "segment_id": 102,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that look like they could be hedge plants or iv"
+    },
+    {
+      "segment_id": 103,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves growing out of them by fence posts that have white"
+    },
+    {
+      "segment_id": 104,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves growing out of them by fence posts that have signs"
+    },
+    {
+      "segment_id": 105,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with fencing around them to keep people out of it while they ride"
+    },
+    {
+      "segment_id": 106,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that sell"
+    },
+    {
+      "segment_id": 107,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 108,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with fencing around them to keep people out of it while they ride"
+    },
+    {
+      "segment_id": 109,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town during daytime hours of April first week"
+    },
+    {
+      "segment_id": 110,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 111,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with people standing around it outside an open doorway to some building or shop that has"
+    },
+    {
+      "segment_id": 112,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with some people standing around it as well."
+    },
+    {
+      "segment_id": 113,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that have been trimmed back to look like hedge"
+    },
+    {
+      "segment_id": 114,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that have been trimmed back to look like hedge"
+    },
+    {
+      "segment_id": 115,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with some luggage attached to it near an iron gate or fence outside someone house door"
+    },
+    {
+      "segment_id": 116,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street next to them with people riding it around town square area of city center where they can be"
+    },
+    {
+      "segment_id": 117,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby as well with people riding them down an alleyway between buildings that have"
+    },
+    {
+      "segment_id": 118,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that look like they could be ivy or fern"
+    },
+    {
+      "segment_id": 119,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near an alleyway between buildings that"
+    },
+    {
+      "segment_id": 120,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that have been trimmed back to look like hedge"
+    },
+    {
+      "segment_id": 121,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 122,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that have been trimmed back to look like hedge"
+    },
+    {
+      "segment_id": 123,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with people riding it around town square area where some shops have their doors open"
+    },
+    {
+      "segment_id": 124,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby with people riding them down an alleyway between buildings that have fences"
+    },
+    {
+      "segment_id": 125,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street with some people around it as well."
+    },
+    {
+      "segment_id": 126,
+      "caption": "The man on the motorcycle has stopped to talk with a woman who's standing next to her bike, which appears ready for traveling down an alleyway between buildings and fences that"
+    },
+    {
+      "segment_id": 127,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with people standing around it outside an alleyway or garage door entrance to some"
+    },
+    {
+      "segment_id": 128,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it near some fences by buildings that have signs posted to them for"
+    },
+    {
+      "segment_id": 129,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 130,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near an alleyway between buildings that"
+    },
+    {
+      "segment_id": 131,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 132,
+      "caption": "Two people are riding bicycles down a street with parked motorcyles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 133,
+      "caption": "Two people are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 134,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 135,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence near buildings that"
+    },
+    {
+      "segment_id": 136,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people standing near fences by bushes outside buildings that have signs"
+    },
+    {
+      "segment_id": 137,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people standing near fences by buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 138,
+      "caption": "People are riding motorcycles down a street with fences on both sides and bushes growing along the sidewalk, while others ride bicycle's parked near some buildings or standing"
+    },
+    {
+      "segment_id": 139,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 140,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence that leads to"
+    },
+    {
+      "segment_id": 141,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it near some buildings that have signs posted outside them as well as fences"
+    },
+    {
+      "segment_id": 142,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk next to them with its front wheel off of it as if someone has taken their bike"
+    },
+    {
+      "segment_id": 143,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street with people riding it around town square area of city center near some shops or businesses"
+    },
+    {
+      "segment_id": 144,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 145,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 146,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 147,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves behind it."
+    },
+    {
+      "segment_id": 148,
+      "caption": "People are riding motorcycles and bicycle on a street with fences, bushes or plants nearby as well some signs above the roadway indicating directions to different places like \"Park"
+    },
+    {
+      "segment_id": 149,
+      "caption": "Two people are riding motorcycles down a street with parked bikes on the side of it and some plants nearby, as well as an electric fence atop another building across from them"
+    },
+    {
+      "segment_id": 150,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with its basket full sitting next to them outside an Asian storefront building that has greenery around"
+    },
+    {
+      "segment_id": 151,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with green leaves that have been trimmed back to look like hedge"
+    },
+    {
+      "segment_id": 152,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 153,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the sidewalk near some bushes with fencing around them to keep people out of it or protect something"
+    },
+    {
+      "segment_id": 154,
+      "caption": "Motorcycles are parked outside a building, and there's also some bicycle traffic on the street as well with people riding them around town near shops or businesses that have"
+    },
+    {
+      "segment_id": 155,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 156,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with some luggage attached to it near an iron gate or fence outside someone house door"
+    },
+    {
+      "segment_id": 157,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby with people riding them down an alleyway between buildings that have fences"
+    },
+    {
+      "segment_id": 158,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with its basket full sitting next to them outside an alleyway near some bushes by f"
+    },
+    {
+      "segment_id": 159,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 160,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 161,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 162,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it down an alleyway between buildings that have fences around them"
+    },
+    {
+      "segment_id": 163,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway to their left"
+    },
+    {
+      "segment_id": 164,
+      "caption": "The scene shows a group of motorcycles parked outside, with some people standing nearby and others riding bicycle on the street next to them all together creating an urban environment atmosphere where different"
+    },
+    {
+      "segment_id": 165,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle near them with some people standing around it as well."
+    },
+    {
+      "segment_id": 166,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it near some buildings that have signs posted outside them as well as p"
+    },
+    {
+      "segment_id": 167,
+      "caption": "Motorcycles are parked outside a building, and there's also bicycle on the street with people riding it around town near some fences by buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 168,
+      "caption": "Two people are riding motorcycles down a street with parked bikes on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 169,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 170,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 171,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near them as"
+    },
+    {
+      "segment_id": 172,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 173,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 174,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people standing near them as well."
+    },
+    {
+      "segment_id": 175,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 176,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 177,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 178,
+      "caption": "People are riding motorcycles down a street with fences on both sides and bushes growing along the sidewalk, while others walk around them or sit nearby waiting for their turn to ride through"
+    },
+    {
+      "segment_id": 179,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 180,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 181,
+      "caption": "The man on the motorcycle has a helmet and riding gear, ready to ride down an alleyway with parked bikes along it's sides including scooters as well"
+    },
+    {
+      "segment_id": 182,
+      "caption": "People are riding motorcycles down a street with parked bikes and potted plants on the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 183,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people standing near fences by bushes outside buildings that have signs"
+    },
+    {
+      "segment_id": 184,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 185,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 186,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway to their left"
+    },
+    {
+      "segment_id": 187,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near them as"
+    },
+    {
+      "segment_id": 188,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 189,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it and some people standing around them, possibly waiting for their turn to ride or just socializing before they"
+    },
+    {
+      "segment_id": 190,
+      "caption": "Two people are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well"
+    },
+    {
+      "segment_id": 191,
+      "caption": "Two people are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well"
+    },
+    {
+      "segment_id": 192,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 193,
+      "caption": "The scene shows a man riding his bike down the street, with several motorcycles parked nearby and some potted plants along sidewalk fences on both sides of him as he passes"
+    },
+    {
+      "segment_id": 194,
+      "caption": "The street has a group of motorcycles parked on the side, and there are people riding bicycle down it as well with some standing around them near buildings or fences that have"
+    },
+    {
+      "segment_id": 195,
+      "caption": "Two motorcycles are parked on the side of a street, and there's also two bicycle riders passing by them with their backpack attached to it as they ride down an"
+    },
+    {
+      "segment_id": 196,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 197,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around as well."
+    },
+    {
+      "segment_id": 198,
+      "caption": "People are riding bikes down a street with parked motorcycles and cars on the side of it, as well as some potted plants nearby to add greenery for an urban setting that"
+    },
+    {
+      "segment_id": 199,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 200,
+      "caption": "a person riding on the back of motorcycle with another man driving it and they are passing by some parked scooters outside an open garage doorway, which has signs posted above them"
+    },
+    {
+      "segment_id": 201,
+      "caption": "The street has a group of motorcycles parked on the sidewalk, and there are people riding bicycle down it as well with some standing around them near fences or buildings that"
+    },
+    {
+      "segment_id": 202,
+      "caption": "Two motorcycles are parked on the side of a street, and there's also two bicycle riders nearby with their vehicles stopped at an intersection or near some buildings along that road"
+    },
+    {
+      "segment_id": 203,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some potted plants nearby as well."
+    },
+    {
+      "segment_id": 204,
+      "caption": "People are riding motorcycles down a street with parked bikes and potted plants on the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 205,
+      "caption": "People are riding motorcycles down a street with parked bikes and potted plants on the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 206,
+      "caption": "People are riding motorcycles on a street with parked bikes and potted plants along the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 207,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby as well with people riding them down an alleyway between buildings that have"
+    },
+    {
+      "segment_id": 208,
+      "caption": "Two people are riding bicycles down a street with parked motorcyles on the side of it, and there's also some signs visible along that roadway as well."
+    },
+    {
+      "segment_id": 209,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it and some people walking around as well, all captured by CAM01 camera lens at an"
+    },
+    {
+      "segment_id": 210,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence that leads to"
+    },
+    {
+      "segment_id": 211,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence that leads to"
+    },
+    {
+      "segment_id": 212,
+      "caption": "People are riding motorcycles and bicycle on a street with fences, bushes or trees nearby as well some signs above the roadway to guide them through their journey"
+    },
+    {
+      "segment_id": 213,
+      "caption": "Motorcycles are parked on the side of a street, and people ride bicycle down it as well with some motorbikes behind them at an intersection near buildings that have signs posted outside"
+    },
+    {
+      "segment_id": 214,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 215,
+      "caption": "People are riding motorcycles down a street with parked bikes and potted plants on the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 216,
+      "caption": "Motorcycles are parked on the side of a street, and there's also some bicycle traffic nearby with people riding them down an alleyway between buildings that have fences"
+    },
+    {
+      "segment_id": 217,
+      "caption": "Motorcycles are parked on the side of a street, and people ride bicycle down it with motorcycle riders behind them waiting for their turn to pass through an alleyway between"
+    },
+    {
+      "segment_id": 218,
+      "caption": "Motorcycles are parked on the side of a street, and people ride bicycle down it as well with some motorbikes behind them waiting for their turn to move forward or backward"
+    },
+    {
+      "segment_id": 219,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with people riding it down an alleyway between buildings that have fences around them to"
+    },
+    {
+      "segment_id": 220,
+      "caption": "People are riding motorcycles down a street with parked bikes and potted plants on the sidewalk, as well as some people walking around outside of buildings that have signs posted to them"
+    },
+    {
+      "segment_id": 221,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway near bushes"
+    },
+    {
+      "segment_id": 222,
+      "caption": "The scene shows a group of motorcycles parked outside, with people walking by and riding bikes on the street as well."
+    },
+    {
+      "segment_id": 223,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open gate or fence near buildings that"
+    },
+    {
+      "segment_id": 224,
+      "caption": "Motorcycles are parked on the side of a street, and there's also bicycle with two people riding it down an alleyway between buildings that have fences around them"
+    },
+    {
+      "segment_id": 225,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway to their left"
+    },
+    {
+      "segment_id": 226,
+      "caption": "The scene shows a group of motorcycles parked on the sidewalk, with people riding bicycle and scooters nearby as well as some standing around them talking to each other or"
+    },
+    {
+      "segment_id": 227,
+      "caption": "People are riding bikes down a street with parked motorcycles on the side of it, and there's also some people walking around outside an open garage doorway to their left"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "video": "RoadAccidents070_x264.mp4",
+  "total_segments": 8,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are riding bikes and walking across a crosswalk at an intersection, with cars driving by on the street behind them as they navigate through traffic lights to ensure their safety while crossing roads or streets"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are riding motorcycles down a street, and there's also some walking around the area as well on their bikes or by foot with backpacks attached to them for carrying items"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are riding bikes and motorcycles down a street, with some of them stopped at an intersection or crosswalk while others continue to ride through the area on their vehicles."
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are riding bikes and a car on the street, with some of them possibly involved an accident or near collision situation as they ride downhill together at high speeds through traffic lights intersection area"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Three people are riding motorcycles down a street, with two of them wearing helmets and the third person on foot behind their bikes as they pass through an intersection or crosswalk"
+    },
+    {
+      "segment_id": 5,
+      "caption": "People are riding motorcycles on a street, and there's an accident scene with people standing around it as well."
+    },
+    {
+      "segment_id": 6,
+      "caption": "People are riding motorcycles and a man on an electric scooter across the street from each other, while others walk around them at crosswalks or stand nearby with their vehicles parked"
+    },
+    {
+      "segment_id": 7,
+      "caption": "People are riding motorcycles on a street, and there's an accident scene with cars involved as well."
+    }
+  ]
+}

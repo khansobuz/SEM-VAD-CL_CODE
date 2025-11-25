@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos378_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Woman standing next to a table with an advertisement on it, holding up the sign for people passing by or entering through doors behind her into another room of businesses and offices that are open during"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Man standing with a sign that says \"I'm not selling anything\"."
+    },
+    {
+      "segment_id": 2,
+      "caption": "Man holding a sign standing next to the table and chairs with potted plants on either side of him, all set up for an event or gathering at his gym business location that has green"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The woman holds a sign that says \"Fitness\"."
+    },
+    {
+      "segment_id": 4,
+      "caption": "a man holding up an advertisement for ChargePoint stations inside of the office building lobby with green walls and white ceiling tiles, surrounded by chairs on both sides"
+    },
+    {
+      "segment_id": 5,
+      "caption": "Woman holding a sign that says \"Cheese PSA\" standing next to an office chair and couches with potted plants on the side of them, all set against green walls behind her back"
+    }
+  ]
+}

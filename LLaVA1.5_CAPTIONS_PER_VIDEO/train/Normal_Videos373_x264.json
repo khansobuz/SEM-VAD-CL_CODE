@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos373_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The cityscape of a large metropolitan area with many tall buildings and streets below, including the train tracks running through it all at ground level on an elevated track system above street traffic to avoid"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The cityscape of a large metropolitan area with many tall buildings and streets below, as seen from an aerial viewpoint above the street level on top floor apartments or condos overlooking"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The view of a city from the top floor balcony shows people walking on sidewalks and vehicles driving by, including cars parked at curbsides or moving along streets below tall buildings with"
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are walking on a street and cars drive by, including an SUV that has stopped at the intersection to let people cross safely before it continues driving downhill through town with its brake lights lit"
+    },
+    {
+      "segment_id": 4,
+      "caption": "People are walking on a sidewalk near stores and crossing the street at an intersection, with some of them carrying handbags or backpacks as they go about their day's activities outside Wing"
+    },
+    {
+      "segment_id": 5,
+      "caption": "People are walking on a busy street, with many of them carrying backpacks and handbags as they go about their day at the Wing Lung Bank building across from an intersection where traffic lights"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video": "Normal_Videos022_x264.mp4",
+  "total_segments": 5,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Cars are driving down a street with buildings and trees on the sidewalk, creating an urban scene at nighttime or dusk time of daylight savings hours when it's darker outside"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Cars are driving down a street at night, with some parked on the side of it and others passing by each other as they travel through an intersection under bright lights from nearby buildings or businesses"
+    },
+    {
+      "segment_id": 2,
+      "caption": "Cars are driving down a busy street at night, with some parked on the side of it and others moving through traffic lights to get where they need to go safely during their commute home from"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Cars are driving down a busy street with traffic lights and pedestrians around them, including people walking on the sidewalk near parked cars at nighttime under bright city lighting conditions that"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The street scene shows cars driving down the road and parked on both sides of it, with a bench nearby for pedestrians to sit while they wait or watch traffic go by them at"
+    }
+  ]
+}

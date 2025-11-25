@@ -1,0 +1,34 @@
+{
+  "video": "RoadAccidents100_x264.mp4",
+  "total_segments": 7,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The highway has a lot of traffic and the cars are moving at high speeds, with some vehicles driving on both sides or going down ramps to merge into other lanes as they travel along their"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The highway has a lot of traffic and people are walking on the sidewalk next to it, with some cars stopped at an intersection or waiting for pedestrians crossing their path as they drive down"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The highway has a lot of traffic, including cars and trucks driving down the road with trees on both sides as well as buildings nearby that are visible from an aerial viewpoint above them all"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The highway has a lot of traffic and people are walking on the sidewalk next to it, with some cars stopped at an intersection or waiting for pedestrians crossing their path as they drive down"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The highway has a lot of traffic and there are many cars on the road, including trucks as well"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The highway has a lot of traffic and there are many cars on the road, including some that have stopped to let people cross at an intersection or pedestrian crossing area near buildings with lots windows facing"
+    },
+    {
+      "segment_id": 6,
+      "caption": "The highway has a lot of traffic and there are cars on the sidewalk as well, with some people walking around them near buildings that have many windows along their sides to provide natural lighting for those"
+    }
+  ]
+}

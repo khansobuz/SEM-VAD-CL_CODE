@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos_885_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Workers are assembling and packaging items for shipping, with a large number of boxes on the floor ready to be filled or emptied by workers wearing gloves as they work at"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Workers are sorting and packing items at a factory, with the help of an assembly line system that includes conveyor belts for efficient processing"
+    },
+    {
+      "segment_id": 2,
+      "caption": "Workers are sorting and packing items at a factory, with the work area labeled GPP-12 on display for easy identification of their tasks by employees working there to ensure efficiency during production"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Workers are assembling and packaging items for shipping, with a sign indicating the product line as GPP12 on display at their work station area within an assembly plant or warehouse"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Workers are sorting and packing clothing items at a factory, with the help of an assembly line system that includes conveyor belts for efficient processing"
+    },
+    {
+      "segment_id": 5,
+      "caption": "Workers are assembling and packaging items for shipping, with a large number of boxes on the floor ready to be filled or emptied by workers wearing gloves as they sort through"
+    }
+  ]
+}

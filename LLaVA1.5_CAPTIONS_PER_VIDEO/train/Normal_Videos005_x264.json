@@ -1,0 +1,26 @@
+{
+  "video": "Normal_Videos005_x264.mp4",
+  "total_segments": 5,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are walking on a street with cars parked along the sidewalk and some driving through an intersection, including bicycles as well"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Cars are driving down a street with people walking on the sidewalk and bicycles parked nearby, creating an urban scene filled of activity at intersections where cars stop for pedestrians"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are riding bikes and walking on a street with parked cars, while others ride motorcycles nearby at an intersection of streets near shops or businesses that have signs out front for"
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are riding bikes down a street with parked cars on the side, and there's also some walking around as well."
+    },
+    {
+      "segment_id": 4,
+      "caption": "People are riding bikes down a street with parked cars on the side, and there's also some motorcycles present as well."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "video": "Normal_Videos286_x264.mp4",
+  "total_segments": 4,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are standing around a counter at an office, with some of them using computers and others talking to the receptionist behind it all while looking out through windows into another room where people can be seen walking"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are standing around a counter, talking to the woman behind it and looking at her computer screen as she works on something for them or with their help."
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are standing around a desk, talking and working together at the front of an office building or hotel lobby area with computers on it as well"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The women are working at a desk, talking to each other and handling paperwork or computer tasks while wearing black suits with ties on their necks as part of the uniform they wear"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos020_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are shopping at a grocery store, pushing carts and looking for items to purchase on the shelves of various departments within their reach such as produce or dairy sections with"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are shopping at a grocery store, walking around and looking for items to purchase on the shelves or from carts they push along with them as well"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are walking through a grocery store, shopping for food and other items on sale at the supermarket's produce section or deli counter area with red baskets hanging from above"
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are shopping at a grocery store, with some standing near the produce section and others walking around looking for items to purchase on sale or not yet marked down from their original price of $"
+    },
+    {
+      "segment_id": 4,
+      "caption": "People are shopping at a grocery store, with some walking around and others looking for items on the shelves or near check-out counters."
+    },
+    {
+      "segment_id": 5,
+      "caption": "People are shopping at a grocery store with lots of food items on display and for sale, including many bottles lined up along the shelves as well as other products such as"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "video": "RoadAccidents075_x264.mp4",
+  "total_segments": 4,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a train and yellow buses driving down it, with people walking on the sidewalk near buildings that have pink trimming around their windows or doors as well as some blue ones too"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The buses are driving down the street and passing each other, with a truck also present on an intersection of roads near buildings that have power lines above them as well as some trees nearby to add"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The buses are driving down the street and a man on horseback can be seen crossing it as well, with traffic lights visible at various points along its length to control vehicle flow through intersections of"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Two buses are driving down a street with people standing on the sidewalk and traffic lights at an intersection, creating congestion as they pass each other by while traveling through town streets filled with"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "video": "Normal_Videos841_x264.mp4",
+  "total_segments": 4,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are walking on a train platform while the subway car waits for them to board or disembark at an underground station with Asian writing above it and signs hanging from ceiling lights"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are walking through a train station, and the subway car has pulled into its platform to pick them up for their journey home or workplace from downtown Tokyo Japan area of Asia continent on"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are walking on a platform next to trains at the station, and there's an Asian language sign above them that says \"4\"."
+    },
+    {
+      "segment_id": 3,
+      "caption": "The train station has a white and red subway car that's pulling into the platform, with people waiting to board it at an underground terminal on track number four of line two-three."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "video": "Normal_Videos_881_x264.mp4",
+  "total_segments": 3,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are walking through a mall, some of them carrying handbags and backpacks as they shop or visit the area around an atrium with stairs leading up to it from below ground"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are walking around a building with stairs and an escalator inside of it, some carrying handbags or backpacks as they go about their day at the mall."
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are walking through a building, some of them carrying backpacks and handbags as they go about their day at the mall or shopping center with an escalator nearby to reach"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "video": "Normal_Videos523_x264.mp4",
+  "total_segments": 5,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Two men are talking at a store counter, with the man on left wearing blue and white shirt while standing next to another person who has his back turned away from us looking towards something else inside"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Two people are standing at a counter, talking to the person behind it who works for Kiel & Company Inc.."
+    },
+    {
+      "segment_id": 2,
+      "caption": "Two men are standing at a counter, talking to the person behind it while other people look around and shop for items such as cell phones or books on display throughout store shelves with blue div"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Two men are standing at a counter, talking to each other while the store has many items on display for sale such as cell phones and books with blue covers that have white writing or pictures of people"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Two people are standing behind a counter at Kiel & Company, selling various items such as books and electronics to customers who walk around the store looking for deals on products like cell phones"
+    }
+  ]
+}

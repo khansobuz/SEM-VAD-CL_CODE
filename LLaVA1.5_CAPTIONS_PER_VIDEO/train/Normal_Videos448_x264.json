@@ -1,0 +1,874 @@
+{
+  "video": "Normal_Videos448_x264.mp4",
+  "total_segments": 217,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The buses are driving down the street and people walking on sidewalk, with a building above them all that has many windows of different sizes to look out from it's balconies or p"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The street has a red bus and other vehicles driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing atop them as well as trees lining both"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The buses are driving down the street and people walking on sidewalk, with a building above them all that has many windows for apartments or business spaces to rent out from it's owner who"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The buses are driving down the street and people walking on sidewalk, with a train passing by overhead as well"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The buses are driving down the street and people walking on sidewalk, with a building above them all that has many windows of different sizes to look out from it's balconies or p"
+    },
+    {
+      "segment_id": 6,
+      "caption": "The red buses are driving down the street, and people can be seen walking on a sidewalk near buildings with green roofs above them as well as an overpass for trains passing by overhead of"
+    },
+    {
+      "segment_id": 7,
+      "caption": "The street has a red bus and several people walking on the sidewalk, with buildings lining both sides of it as well."
+    },
+    {
+      "segment_id": 8,
+      "caption": "The street has a red bus and several people walking on the sidewalk, with cars parked nearby as well"
+    },
+    {
+      "segment_id": 9,
+      "caption": "The street has a red bus and other vehicles driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside"
+    },
+    {
+      "segment_id": 10,
+      "caption": "The street has a lot of traffic, including buses and cars driving down the road with people walking on sidewalks near buildings that have green roofs or balconies overlooking them from above"
+    },
+    {
+      "segment_id": 11,
+      "caption": "The street has a lot of people walking and vehicles driving, including buses on the roadway above an Asian city marketplace with shops below it all surrounded by buildings that are part old Hong Kong"
+    },
+    {
+      "segment_id": 12,
+      "caption": "People are walking on a street with buildings and cars around them, including some yellow taxis driving down the roadway between two tall structures that have red roofs atop of their building tops as"
+    },
+    {
+      "segment_id": 13,
+      "caption": "The street has a yellow line and people are walking on it, while cars drive by with caution due to the pedestrians nearby at an intersection of buildings near some trees that have green leaves"
+    },
+    {
+      "segment_id": 14,
+      "caption": "The street has a yellow crosswalk and people are walking on the sidewalks, while cars drive down it with some parked along its sides as well"
+    },
+    {
+      "segment_id": 15,
+      "caption": "People are walking on a busy street with cars and buses driving by, while others ride bicycles through the city streets as well."
+    },
+    {
+      "segment_id": 16,
+      "caption": "People are walking on a street with cars and buses passing by, while others stand around the corner of an intersection near buildings that have green roofs or balconies overlooking it all from above"
+    },
+    {
+      "segment_id": 17,
+      "caption": "People are walking on a busy street with cars and buses driving by, while others stand around the area near buildings or walkways above them all at an intersection of roads that includes pedestrians"
+    },
+    {
+      "segment_id": 18,
+      "caption": "People are walking on a street with cars and buses passing by, while others ride bicycles down the roadway as well."
+    },
+    {
+      "segment_id": 19,
+      "caption": "The street scene shows a busy intersection with people walking and vehicles driving, including cars on the roadway as well pedestrians crossing at crosswalks or intersections of streets within an urban setting"
+    },
+    {
+      "segment_id": 20,
+      "caption": "People are walking on a busy street with cars and buses passing by, while others ride bicycles through the crowded area near buildings that have green roofs or balconies overlooking it"
+    },
+    {
+      "segment_id": 21,
+      "caption": "The street has a lot of people walking and vehicles driving on it, including cars that are parked or moving along the roadway near buildings with balconies overlooking them from above ground level at"
+    },
+    {
+      "segment_id": 22,
+      "caption": "The street has a lot of people walking and vehicles driving on it, including cars that are parked or moving along the roadway near buildings with balconies overlooking them from above ground level."
+    },
+    {
+      "segment_id": 23,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 24,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where traffic lights are present to control vehicle flow through"
+    },
+    {
+      "segment_id": 25,
+      "caption": "The street has a red bus and several people walking on it, with buildings lining the sides of both streets at an intersection where cars are also present."
+    },
+    {
+      "segment_id": 26,
+      "caption": "The street has a red bus and several people walking on it, with buildings lining the sides of both streets at an intersection where cars are also present."
+    },
+    {
+      "segment_id": 27,
+      "caption": "The red bus drives down a busy street with many people walking around and cars on the road, including taxis that are driving through an underpass tunnel to get across town quickly without traffic congestion"
+    },
+    {
+      "segment_id": 28,
+      "caption": "The red bus drives down a busy street with many people walking around and crossing the road, while others are standing on sidewalks near buildings or waiting at crossings for their turn to walk across streets"
+    },
+    {
+      "segment_id": 29,
+      "caption": "The street has a red bus and many people walking on it, with some pedestrians crossing the road at an intersection near buildings that have balconies overlooking them from above ground level of"
+    },
+    {
+      "segment_id": 30,
+      "caption": "The red bus drives down a busy street with many people walking around and cars parked on the side of road, including some near an underpass or tunnel entrance/exit area where pedestrians"
+    },
+    {
+      "segment_id": 31,
+      "caption": "The red bus drives down a busy street with many people walking around and cars on the roadway, including an orange car driving underneath it through tunnels beneath buildings that are part of Hong"
+    },
+    {
+      "segment_id": 32,
+      "caption": "The red bus drives down a busy street with people walking and cars driving around it, including some parked on the side of road near buildings that have green roofs or balconies overlooking them"
+    },
+    {
+      "segment_id": 33,
+      "caption": "The red bus drives down a busy street with many people walking around and cars parked on the side of road, including some near an underpass or tunnel entrance/exit area where trains are also present"
+    },
+    {
+      "segment_id": 34,
+      "caption": "The red bus drives down a busy street with many people walking around and cars parked on the side of road, including some near an underpass or tunnel entrance/exit area where pedestrians"
+    },
+    {
+      "segment_id": 35,
+      "caption": "The red bus drives down a busy street with many people walking around and cars on the road as well, including some parked along side of it's pathway to pick up passengers at designated stops"
+    },
+    {
+      "segment_id": 36,
+      "caption": "The red bus drives down a busy street with many people walking around and cars on the roadway, including another car driving by as well"
+    },
+    {
+      "segment_id": 37,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing atop them as well as trees lining both sides"
+    },
+    {
+      "segment_id": 38,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 39,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies overlooking them from above ground level of an under"
+    },
+    {
+      "segment_id": 40,
+      "caption": "The street scene includes a red bus, cars and motorcycles driving down the road with people walking on sidewalks near buildings that have green roofs or balconies above them as well as"
+    },
+    {
+      "segment_id": 41,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 42,
+      "caption": "People are walking on a busy street with cars and traffic lights around them, creating an urban atmosphere filled with activity at the intersection of two streets near buildings that have balconies overlooking it all from"
+    },
+    {
+      "segment_id": 43,
+      "caption": "The street has a crosswalk and people are walking on it, while cars drive by the buildings along both sides of roadway with trees nearby as well"
+    },
+    {
+      "segment_id": 44,
+      "caption": "People are walking on a street with cars and buses passing by, while others stand around waiting to cross the road at an intersection near buildings that have green roofs or balconies overlooking it"
+    },
+    {
+      "segment_id": 45,
+      "caption": "People are walking on a busy street with cars and trucks driving by, while others ride bicycles through the area as well."
+    },
+    {
+      "segment_id": 46,
+      "caption": "People are walking on a busy street with cars and trucks driving by, including some that have stopped at the crosswalk to let pedestrians pass safely across an intersection of roads near buildings"
+    },
+    {
+      "segment_id": 47,
+      "caption": "People are crossing a street at an intersection, with cars and trucks waiting for them to pass through the crosswalk before proceeding on their way down narrow streets between tall buildings that have balcon"
+    },
+    {
+      "segment_id": 48,
+      "caption": "People are crossing a street at an intersection, with cars and buses waiting for them to clear the way before proceeding through traffic lights on both sides of their pathway across town streets filled by buildings"
+    },
+    {
+      "segment_id": 49,
+      "caption": "People are crossing a street at an intersection, with cars and buses waiting for them to pass through the crosswalk before proceeding on their way down narrow streets lined by buildings that have balcon"
+    },
+    {
+      "segment_id": 50,
+      "caption": "People are crossing a street at an intersection, with cars and trucks waiting for them to pass through the crosswalk before they can proceed on their journey downhill towards buildings that have green roof gard"
+    },
+    {
+      "segment_id": 51,
+      "caption": "People are walking on a street with buildings and cars around them, including some who have just crossed the road at an intersection where traffic lights control their movement through town squares or plazas that feature trees for"
+    },
+    {
+      "segment_id": 52,
+      "caption": "People are walking on a street with buildings and cars around them, including some that have stopped at the crosswalk to let others pass by first before they proceed further down their pathway through town or city"
+    },
+    {
+      "segment_id": 53,
+      "caption": "The street has a lot of people walking and cars driving on it, with buildings surrounding the area as well"
+    },
+    {
+      "segment_id": 54,
+      "caption": "People are walking on a busy street with cars and trucks driving by, including taxis that have stopped to pick up passengers at the crosswalk intersection of two streets near buildings under construction or renov"
+    },
+    {
+      "segment_id": 55,
+      "caption": "The street has a crosswalk and people are walking on it, while cars drive by with some parked nearby as well"
+    },
+    {
+      "segment_id": 56,
+      "caption": "The street has a bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or potted plants atop themeselves as well"
+    },
+    {
+      "segment_id": 57,
+      "caption": "People are walking on a busy street with cars and buses passing by, including an Asian city scene where people walk across the road at crosswalks while vehicles pass through intersections of roads that have"
+    },
+    {
+      "segment_id": 58,
+      "caption": "The street scene shows a busy city intersection with people walking and cars driving, including taxis on the roadway near buildings that have green roofs or are covered by trees growing from their rooft"
+    },
+    {
+      "segment_id": 59,
+      "caption": "The street has a lot of people walking and cars driving on it, with buildings lining the sides as well"
+    },
+    {
+      "segment_id": 60,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection where traffic lights are present to control vehicle"
+    },
+    {
+      "segment_id": 61,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where traffic lights are present to control vehicle flow through"
+    },
+    {
+      "segment_id": 62,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where traffic lights are present to control vehicle flow through"
+    },
+    {
+      "segment_id": 63,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 64,
+      "caption": "The street has a red bus and several people walking on it, with buildings lining the sides of both streets at an intersection where cars are also present."
+    },
+    {
+      "segment_id": 65,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 66,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 67,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing from them as well as trees lining both sides of"
+    },
+    {
+      "segment_id": 68,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing atop them to create an urban jungle atmosphere"
+    },
+    {
+      "segment_id": 69,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 70,
+      "caption": "The street has a red bus and other vehicles driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing from them as well as potted trees lining"
+    },
+    {
+      "segment_id": 71,
+      "caption": "The street has a bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing from them as well as trees lining both sides of road"
+    },
+    {
+      "segment_id": 72,
+      "caption": "The buses are driving down the street and people walking on sidewalk, with a yellow building nearby as well"
+    },
+    {
+      "segment_id": 73,
+      "caption": "The bus has stopped at a crosswalk, and people are crossing the street on foot or by bicycle as it waits for them to pass before continuing its journey down an Asian city'"
+    },
+    {
+      "segment_id": 74,
+      "caption": "The street has a bus and several people walking on it, with some pedestrians crossing the road at an intersection near buildings that have green roofs or balconies overlooking them from above"
+    },
+    {
+      "segment_id": 75,
+      "caption": "People are walking on a street with cars and buses passing by, while others stand around the corner of an intersection near buildings that have green roofs or balconies overlooking it all from above"
+    },
+    {
+      "segment_id": 76,
+      "caption": "People are crossing a street at an intersection, with cars and buses waiting for them to pass through the crosswalk before proceeding on their way down busy city streets lined by buildings that have bal"
+    },
+    {
+      "segment_id": 77,
+      "caption": "People are crossing a street at an intersection, with cars and traffic lights present to guide them through the area safely while others watch from their balconies or rooftops of nearby buildings as they"
+    },
+    {
+      "segment_id": 78,
+      "caption": "People are crossing a street at an intersection, with cars and buses waiting for them to pass through the crosswalk before proceeding on their way down busy city streets lined by buildings that have bal"
+    },
+    {
+      "segment_id": 79,
+      "caption": "People are walking on a street with cars and trucks driving by, while others stand around waiting to cross the road at an intersection near buildings that have green roofing or balconies overlooking"
+    },
+    {
+      "segment_id": 80,
+      "caption": "The yellow school bus drives down a busy city street with many people walking around and crossing the road, including some who are carrying backpacks or handbags as they navigate through traffic on their way"
+    },
+    {
+      "segment_id": 81,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars on the roadway, including another car driving behind it as well as other vehicles parked along side of buildings that are l"
+    },
+    {
+      "segment_id": 82,
+      "caption": "The yellow van drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection near buildings that have balconies"
+    },
+    {
+      "segment_id": 83,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars on the roadway, including another car driving behind it as well as other vehicles parked along both sides of the narrow city"
+    },
+    {
+      "segment_id": 84,
+      "caption": "The yellow van drives down a busy street with many people walking around and cars parked on the side of road, including an Asian restaurant that has several potted plants outside its entrance to create ambiance"
+    },
+    {
+      "segment_id": 85,
+      "caption": "The yellow van drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection near buildings that have balconies"
+    },
+    {
+      "segment_id": 86,
+      "caption": "The yellow van drives down a busy street with many people walking around and buildings on both sides of the roadway, including an Asian restaurant at its end that has several potted plants outside it's"
+    },
+    {
+      "segment_id": 87,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars parked on the side of road, including some trucks as well"
+    },
+    {
+      "segment_id": 88,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars parked on the side of road, including red car near building entrance way to left from center point towards top right corner area"
+    },
+    {
+      "segment_id": 89,
+      "caption": "The yellow bus drives down a busy street with people walking on the sidewalk and cars driving behind it, including another car that has stopped to let pedestrians cross at an intersection near some buildings"
+    },
+    {
+      "segment_id": 90,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars on the road as well, including another car driving by behind it while pedestrians are crossing at an intersection nearby buildings"
+    },
+    {
+      "segment_id": 91,
+      "caption": "The yellow bus drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection near buildings that have balconies"
+    },
+    {
+      "segment_id": 92,
+      "caption": "The yellow van drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection near buildings that have balconies"
+    },
+    {
+      "segment_id": 93,
+      "caption": "The yellow taxi cab drives down the street with people walking on both sides of it, and a building behind them that has an Asian symbol painted onto its side wall above some shops at ground level"
+    },
+    {
+      "segment_id": 94,
+      "caption": "The yellow van drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection near buildings that have balconies"
+    },
+    {
+      "segment_id": 95,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars parked on the side of road, including red car near building entrance"
+    },
+    {
+      "segment_id": 96,
+      "caption": "The yellow bus drives down a busy street with many people walking around and cars on the road, including another car driving by it as well at an intersection of buildings that are tall enough to be seen from"
+    },
+    {
+      "segment_id": 97,
+      "caption": "The yellow bus drives down a busy street with people walking on the sidewalk and cars driving behind it, including red car that has just passed by another vehicle at an intersection of roads near buildings where there"
+    },
+    {
+      "segment_id": 98,
+      "caption": "The yellow bus drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection where traffic lights control their movement through"
+    },
+    {
+      "segment_id": 99,
+      "caption": "The street has a yellow taxi and several pedestrians walking on the sidewalk, with buildings surrounding them all around including some that are taller than others as well as an overpass above"
+    },
+    {
+      "segment_id": 100,
+      "caption": "People are walking on a street with cars and buses passing by, while others stand around the corner of an intersection near buildings that have green roofs or balconies overlooking it all from above"
+    },
+    {
+      "segment_id": 101,
+      "caption": "The street has a lot of people walking and cars driving on it, with some pedestrians crossing the road at an intersection near buildings that have green roofs or balconies above them as"
+    },
+    {
+      "segment_id": 102,
+      "caption": "The street scene shows a busy city intersection with people walking and vehicles driving, including buses on the roadway near buildings that have balconies overlooking it all from above ground level of their respective"
+    },
+    {
+      "segment_id": 103,
+      "caption": "People are walking on a busy city street with cars and trucks driving by, including some that have stopped at the crosswalk to pick up passengers or drop off people from their vehicles as they navigate"
+    },
+    {
+      "segment_id": 104,
+      "caption": "People are walking on a busy street with cars and buses driving by, while others ride bicycles or motorcycless through the city streets of Hong Kong's Chung King Mansion"
+    },
+    {
+      "segment_id": 105,
+      "caption": "The street has a yellow crosswalk and people are walking on it, while cars drive by with some parked nearby as well"
+    },
+    {
+      "segment_id": 106,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and others standing around nearby buildings or crossing streets at crosswalks as they go about their day-"
+    },
+    {
+      "segment_id": 107,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 108,
+      "caption": "The street scene shows a busy city intersection with people walking and vehicles driving, including buses on the roadway near buildings that have balconies overlooking it all from above ground level of their respective"
+    },
+    {
+      "segment_id": 109,
+      "caption": "People are walking on a busy street with cars and buses driving by, including an orange double decker tourist vehicle that has stopped to pick up passengers at the curbside of buildings along its"
+    },
+    {
+      "segment_id": 110,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection near buildings that have green roofs above them."
+    },
+    {
+      "segment_id": 111,
+      "caption": "The street scene shows a red bus driving down the road with people walking on both sides of it, and cars parked along sidewalks near buildings that have green roofs or balconies over"
+    },
+    {
+      "segment_id": 112,
+      "caption": "The street has a red bus and several cars driving down it, with people walking on the sidewalk near buildings that have green roofs or pink trimming around them as well as some trees nearby"
+    },
+    {
+      "segment_id": 113,
+      "caption": "The street has a red bus and several cars driving down it, with people walking on the sidewalk near buildings that have green roofs or potted plants atop themeselves as well"
+    },
+    {
+      "segment_id": 114,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked along its length as well at an intersection nearby buildings that are tall enough to be"
+    },
+    {
+      "segment_id": 115,
+      "caption": "People are walking on a sidewalk and cars drive down the street, with buildings surrounding them all around as they navigate through an urban environment filled with pedestrians crossing at crosswalks or waiting"
+    },
+    {
+      "segment_id": 116,
+      "caption": "People are walking on a busy street with red buses and cars driving by, while others ride bicycles down the roadway as well."
+    },
+    {
+      "segment_id": 117,
+      "caption": "People are walking on a busy street with cars and buses driving by, including red tourist bussess that have stopped to pick up passengers at the curbside of buildings along an Asian city"
+    },
+    {
+      "segment_id": 118,
+      "caption": "People are walking on a sidewalk near parked cars and buses, with some of them crossing the street at an intersection while others wait to cross or walk down another roadway nearby buildings that have"
+    },
+    {
+      "segment_id": 119,
+      "caption": "The street has a red bus and several cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies overlooking them from above ground level of par"
+    },
+    {
+      "segment_id": 120,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 121,
+      "caption": "The street has a red bus and other vehicles, including cars driving down the road with people walking on sidewalks near buildings that have green roofs or balconies above them as well as trees"
+    },
+    {
+      "segment_id": 122,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as trees nearby providing shade"
+    },
+    {
+      "segment_id": 123,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 124,
+      "caption": "People are walking on a busy street with red buses and cars driving by, while others wait at the crosswalk for their turn to walk across it safely before crossing over into another lane of traffic"
+    },
+    {
+      "segment_id": 125,
+      "caption": "People are walking on a busy street with red buses and cars driving by, while others ride bicycles through the area as well."
+    },
+    {
+      "segment_id": 126,
+      "caption": "People are walking on a busy street with red buses and cars driving by, while others wait at the crosswalk for their turn to walk across it safely before crossing over into another lane of traffic"
+    },
+    {
+      "segment_id": 127,
+      "caption": "The street has a lot of traffic and people walking around, with cars driving down the road near buildings on both sides"
+    },
+    {
+      "segment_id": 128,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or potted plants atop themeselves as well"
+    },
+    {
+      "segment_id": 129,
+      "caption": "The street has a mix of vehicles, including cars and buses driving down the road with people walking on sidewalks near buildings that have green roofs or balconies overlooking them from above"
+    },
+    {
+      "segment_id": 130,
+      "caption": "The street has a lot of traffic, including buses and trucks driving down the roadway between buildings with people walking on sidewalks or standing near them waiting to cross at intersections where"
+    },
+    {
+      "segment_id": 131,
+      "caption": "The street has a lot of traffic, including buses and cars driving down the road with people walking on sidewalks near buildings that have green roofs or balconies overlooking them from above"
+    },
+    {
+      "segment_id": 132,
+      "caption": "The street has a lot of traffic, including buses and cars driving down the road with people walking on sidewalks near buildings that have green roofs or pink walls above them as well as"
+    },
+    {
+      "segment_id": 133,
+      "caption": "The street has a lot of traffic, including buses and cars driving down the roadway between buildings with people walking on sidewalks or crossing streets at crossings near trees that line both sides of"
+    },
+    {
+      "segment_id": 134,
+      "caption": "The scene shows a busy city street with people walking and buses driving down the road, including two yellow ones that are passing each other on opposite sides of an intersection near some buildings under construction or renov"
+    },
+    {
+      "segment_id": 135,
+      "caption": "The street scene shows a busy intersection with people walking and vehicles driving, including buses on the roadway near buildings that have green roofs or patios above them for outdoor seating areas"
+    },
+    {
+      "segment_id": 136,
+      "caption": "The street has a mix of vehicles, including buses and cars driving down the road with people walking on sidewalks near buildings that have green roofs or balconies above them as well as"
+    },
+    {
+      "segment_id": 137,
+      "caption": "The street has a yellow bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or potted plants atop them as well as trees nearby to provide"
+    },
+    {
+      "segment_id": 138,
+      "caption": "The street has a red bus and several people walking on the sidewalk, with cars parked nearby as well"
+    },
+    {
+      "segment_id": 139,
+      "caption": "People are walking on a busy street with cars and buses driving by, including an orange city tour vehicle that has stopped at the crosswalk to pick up passengers from across town who have been waiting for"
+    },
+    {
+      "segment_id": 140,
+      "caption": "The street scene shows a busy city intersection with people walking and vehicles driving, including cars on the roadway as well pedestrians crossing at crosswalks or waiting to do so while traffic lights"
+    },
+    {
+      "segment_id": 141,
+      "caption": "People are walking on a busy street with cars and buses driving by, including an orange city transit vehicle that has stopped at the crosswalk to pick up passengers waiting for it across from buildings along"
+    },
+    {
+      "segment_id": 142,
+      "caption": "The street has a yellow bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as trees nearby providing shade"
+    },
+    {
+      "segment_id": 143,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where traffic lights are present to control vehicle flow through"
+    },
+    {
+      "segment_id": 144,
+      "caption": "The street scene shows a yellow bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where pedestrians are crossing over to another"
+    },
+    {
+      "segment_id": 145,
+      "caption": "The street has a lot of people walking and vehicles driving on it, including buses that are parked or moving through the area with pedestrians around them at an intersection near buildings under construction"
+    },
+    {
+      "segment_id": 146,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 147,
+      "caption": "The street has a yellow bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 148,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or potted plants atop themeselves as well"
+    },
+    {
+      "segment_id": 149,
+      "caption": "The bus has stopped at a red light, and people are walking on the sidewalk near it as they go about their day's activities or commute to work using public transportation services like city"
+    },
+    {
+      "segment_id": 150,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or pink trimming around them as well as some trees nearby to"
+    },
+    {
+      "segment_id": 151,
+      "caption": "The street has a red car and buses driving down it, with people walking on the sidewalk near buildings that have green roofs or pink trimming around them as well as trees nearby providing"
+    },
+    {
+      "segment_id": 152,
+      "caption": "The street has a lot of people and vehicles, including buses driving down the roadway between buildings with many windows on them as well as cars parked along sidewalks near trees that line both"
+    },
+    {
+      "segment_id": 153,
+      "caption": "The street scene shows a red bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where traffic lights are present to control vehicle flow through"
+    },
+    {
+      "segment_id": 154,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or potted plants atop them as well as some parked vehicles"
+    },
+    {
+      "segment_id": 155,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 156,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or pink trimming around them as well as some trees nearby to"
+    },
+    {
+      "segment_id": 157,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing atop them as well as trees lining both sides"
+    },
+    {
+      "segment_id": 158,
+      "caption": "The street has a lot of traffic and people walking around, with cars driving down the road near buildings on both sides that have balconies overlooking it all from above ground level to below building height"
+    },
+    {
+      "segment_id": 159,
+      "caption": "The street has a lot of traffic and pedestrians, with buses driving down the road near buildings on both sides"
+    },
+    {
+      "segment_id": 160,
+      "caption": "The street has a bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies overlooking them from above ground level of an underground"
+    },
+    {
+      "segment_id": 161,
+      "caption": "The street has a lot of traffic, including buses and cars driving down the road with people walking on sidewalks near buildings that have green roofs or balconies above them."
+    },
+    {
+      "segment_id": 162,
+      "caption": "The red bus has stopped at a crosswalk, and people are crossing the street on foot or by car as they navigate through an urban environment with buildings nearby that have greenery growing from their roo"
+    },
+    {
+      "segment_id": 163,
+      "caption": "The street scene shows a bus driving down the road, with people walking on both sides of it and cars parked nearby as well at an intersection where traffic lights are present to control vehicle flow through that"
+    },
+    {
+      "segment_id": 164,
+      "caption": "The scene shows a busy city street with people walking and cars driving, including buses on the roadway near buildings that have green roofs or pink trimmed windows at their top floors of"
+    },
+    {
+      "segment_id": 165,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 166,
+      "caption": "People are walking on a street with cars and traffic lights, while others stand around the area outside of buildings or shops near an intersection where vehicles drive by at high speeds due to its narrowness"
+    },
+    {
+      "segment_id": 167,
+      "caption": "People are walking on a street with cars and buildings around them, including an Asian restaurant that has people standing outside of it as well."
+    },
+    {
+      "segment_id": 168,
+      "caption": "People are crossing a street at an intersection, and there's traffic on the road as well with cars driving by pedestrians walking across it all day long everyday of their lives for et"
+    },
+    {
+      "segment_id": 169,
+      "caption": "People are crossing a street at an intersection, and there's also some traffic on the roadway below them as they walk across it with caution while others watch from above or nearby buildings."
+    },
+    {
+      "segment_id": 170,
+      "caption": "People are crossing a street at an intersection, with cars and traffic lights present to guide them through the area safely while others watch from their balconies or rooftops of nearby buildings on both"
+    },
+    {
+      "segment_id": 171,
+      "caption": "People are walking on a busy street with buildings and cars around them, including some crossing the road at an intersection where traffic lights control their movement through it all day long everyday of each week for many"
+    },
+    {
+      "segment_id": 172,
+      "caption": "People are walking on a street with buildings and cars around them, including some that have stopped at an intersection to wait for the traffic light signaling it's safe time yet again as they continue their"
+    },
+    {
+      "segment_id": 173,
+      "caption": "People are walking on a street with buildings and cars around them, including some that have stopped at an intersection to wait for the traffic light signaling it's safe time yet again as they continue their"
+    },
+    {
+      "segment_id": 174,
+      "caption": "People are walking on a street with buildings and cars around them, some of which have Asian writing or symbols displayed outside their shops as part of the city's culture scene."
+    },
+    {
+      "segment_id": 175,
+      "caption": "People are walking on a street with buildings and cars around them, including an orange car driving down the roadway near some pedestrians crossing at crosswalk area of intersection between two streets or roads"
+    },
+    {
+      "segment_id": 176,
+      "caption": "The street has a crosswalk and people are walking on it, while cars drive by the buildings along both sides of roadway with trees growing beside them as well"
+    },
+    {
+      "segment_id": 177,
+      "caption": "People are walking on a street with cars and buildings around them, including some that have green roofs or balconies above the sidewalk level of their building facades."
+    },
+    {
+      "segment_id": 178,
+      "caption": "People are walking on a street with cars and buildings around them, including an Asian restaurant that has people standing outside of it as well."
+    },
+    {
+      "segment_id": 179,
+      "caption": "People are walking on a street with buildings and cars around them, including buses passing by the sidewalk area of stores or shops that have potted plants outside their doors to add some greenery"
+    },
+    {
+      "segment_id": 180,
+      "caption": "People are walking on a busy street with buildings and cars around them, including some pedestrians crossing the road at an intersection near traffic lights to get across safely before they reach their destination or cross"
+    },
+    {
+      "segment_id": 181,
+      "caption": "The street has a crosswalk and people are walking on it, while cars drive by with caution due to the pedestrians crossing at an intersection near buildings that have green roofs or bal"
+    },
+    {
+      "segment_id": 182,
+      "caption": "The street has a lot of people walking and cars driving on it, with some buildings nearby as well"
+    },
+    {
+      "segment_id": 183,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 184,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 185,
+      "caption": "The street has a yellow crosswalk and people are walking on it, while cars drive by the buildings along both sides of roadway with trees growing above them from rooftops to ground level creating"
+    },
+    {
+      "segment_id": 186,
+      "caption": "The street has a yellow crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 187,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 188,
+      "caption": "People are crossing the street at a crosswalk, and cars drive by on both sides of them as they walk across an intersection with buildings behind it all around including some that have green roofs or plants"
+    },
+    {
+      "segment_id": 189,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 190,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 191,
+      "caption": "The street has a red car driving down it and people walking on the sidewalk, with buildings surrounding them all around including some that are tall enough to have balconies or patios at their"
+    },
+    {
+      "segment_id": 192,
+      "caption": "People are walking on a busy street with cars and buses driving by, while others ride bicycles through the area as well"
+    },
+    {
+      "segment_id": 193,
+      "caption": "People are walking on a busy street with cars and buses driving by, while others ride bicycles through the area as well"
+    },
+    {
+      "segment_id": 194,
+      "caption": "People are walking on a street with buildings and cars around them, while others ride bicycles through the area as well."
+    },
+    {
+      "segment_id": 195,
+      "caption": "People are walking on a busy street with cars and buses passing by, while others stand around the area near buildings or under an awning at nighttime during daylight hours of summer time when it"
+    },
+    {
+      "segment_id": 196,
+      "caption": "People are walking on a busy street with cars and buses passing by, while others ride bicycles through the area as well."
+    },
+    {
+      "segment_id": 197,
+      "caption": "People are walking on a street with cars and buses passing by, while others ride bicycles down the roadway near buildings that have green roofs or balconies overlooking it all from"
+    },
+    {
+      "segment_id": 198,
+      "caption": "People are walking on a sidewalk and crossing the street at an intersection with traffic lights, while cars drive by through tunnels under buildings above them all."
+    },
+    {
+      "segment_id": 199,
+      "caption": "People are walking on a sidewalk and crossing the street at an intersection with cars driving by, while others ride bicycles down another roadway nearby buildings that have green roofs or balconies"
+    },
+    {
+      "segment_id": 200,
+      "caption": "People are walking on a busy city street with buildings and cars around them, including some crossing the road at an intersection where traffic lights control their movement through crosswalks marked by yellow lines painted across it"
+    },
+    {
+      "segment_id": 201,
+      "caption": "People are walking on a busy street with cars and bicycles passing by, while others ride their scooters down the sidewalk near buildings that have green roofs or balconies overlooking"
+    },
+    {
+      "segment_id": 202,
+      "caption": "People are walking on a street with buildings and cars around them, including some that have stopped at an intersection to wait for the traffic light signaling it's safe time yet again as they continue their"
+    },
+    {
+      "segment_id": 203,
+      "caption": "People are walking on a busy street with buildings and cars around them, including some who have stopped to look at something or someone else has pointed out for their attention while others continue down the roadway as"
+    },
+    {
+      "segment_id": 204,
+      "caption": "People are walking on a busy street with buildings and cars around them, including some who have stopped to look at something or someone else has pointed out for their attention while others continue down the roadway as"
+    },
+    {
+      "segment_id": 205,
+      "caption": "People are walking on a busy street with buildings and cars around them, including some that have stopped at an intersection to wait for the traffic light signaling it's safe time yet again as they continue"
+    },
+    {
+      "segment_id": 206,
+      "caption": "The street has a crosswalk and people are walking on it, while cars drive by the buildings along both sides of roadway with trees growing above them as well at an intersection where vehicles stop for ped"
+    },
+    {
+      "segment_id": 207,
+      "caption": "The street has a crosswalk and cars are driving on it, with people walking around the area as well"
+    },
+    {
+      "segment_id": 208,
+      "caption": "The street has a bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or plants growing atop them to create an urban jungle atmosphere for"
+    },
+    {
+      "segment_id": 209,
+      "caption": "The street has a red bus and cars driving down it, with people walking on the sidewalk near buildings that have green roofs or balconies above them as well as potted plants outside of"
+    },
+    {
+      "segment_id": 210,
+      "caption": "The bus has stopped at a red light, and people are walking on the sidewalk near it as they go about their day's activities or commute to work using public transportation services like city"
+    },
+    {
+      "segment_id": 211,
+      "caption": "The street scene shows a red car driving down the road, with people walking on both sides of it and buses parked at various locations along its length as well near buildings that are part of an"
+    },
+    {
+      "segment_id": 212,
+      "caption": "The bus has stopped at a crosswalk, and people are crossing the street on foot or bicycle as it waits for them to pass before continuing its journey down an urban city roadway"
+    },
+    {
+      "segment_id": 213,
+      "caption": "The street has a red bus and several people walking on the sidewalk, with some pedestrians crossing at an intersection near buildings that have green roofs or balconies above them as well"
+    },
+    {
+      "segment_id": 214,
+      "caption": "The red bus drives down a busy street with many people walking around and crossing the road, while cars are parked on both sides of it as well at an intersection near buildings that have green roofs"
+    },
+    {
+      "segment_id": 215,
+      "caption": "The street has a red bus and many people walking on it, with some pedestrians crossing the road at an intersection near buildings that have balconies overlooking them from above ground level of"
+    },
+    {
+      "segment_id": 216,
+      "caption": "The street has a red bus and many people walking on it, with some pedestrians crossing the road at an intersection near buildings that have green roofs or balconies overlooking them from"
+    }
+  ]
+}

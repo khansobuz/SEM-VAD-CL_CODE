@@ -1,0 +1,42 @@
+{
+  "video": "Normal_Videos_912_x264.mp4",
+  "total_segments": 9,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a roundabout and cars are driving through it, with some people walking on the sidewalk as well"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The street has a car driving down it and there are people walking on the sidewalk, including some who appear to be crossing at an intersection with traffic lights above them that have turned red for their safety"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The street has a car driving down it and there are people walking on the sidewalk, with some of them carrying backpacks or handbags as they go about their day at an intersection near"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The street has a red light and cars are driving down it, including an old car that appears to be turning onto the road from another direction as well at night time with some people walking on sidewalk"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Cars are driving down a street with traffic lights and pedestrians on the sidewalk, creating an urban scene of movement through town center streets at nighttime during summer months when people enjoy out"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The black SUV drives down the street with other vehicles and pedestrians around it, including a truck on its right side at an intersection of streets that are not busy enough to have traffic"
+    },
+    {
+      "segment_id": 6,
+      "caption": "Cars are driving down a street with people walking on the sidewalk and traffic lights at intersections, including an intersection where cars have stopped for pedestrians to cross safely across two streets using"
+    },
+    {
+      "segment_id": 7,
+      "caption": "Cars are driving down a street with traffic lights and parked cars on the side of it, creating an urban scene at dusk time during summer daytime hours when people can be seen walking around"
+    },
+    {
+      "segment_id": 8,
+      "caption": "Cars are driving down a street with people walking on the sidewalk and traffic lights at intersections, including an intersection where cars have stopped for pedestrians to cross safely across two streets using"
+    }
+  ]
+}

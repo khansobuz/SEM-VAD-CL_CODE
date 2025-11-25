@@ -1,0 +1,26 @@
+{
+  "video": "RoadAccidents052_x264.mp4",
+  "total_segments": 5,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The car on the side of a road has its trunk open, and there are other cars driving by it at an intersection with multiple lanes going different directions as well as pedestrians walking"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The car on the street has a flat tire and it's parked at an intersection with other cars around, including some that are driving by or stopped nearby as well as pedestrians"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The car has a flat tire and the driver appears to be trying out for an Indian motorcycle race team, as he rides his bike down Main Street while cars are passing by on both"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The scene shows a busy intersection with cars and people, including someone walking across the street while others are riding bicycles or motorcycless around them on their way to work at an office"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Cars are driving down a street and people on bicycles ride through the intersection, creating an active scene with various modes of transportation sharing space at different times during their journey across town or city"
+    }
+  ]
+}

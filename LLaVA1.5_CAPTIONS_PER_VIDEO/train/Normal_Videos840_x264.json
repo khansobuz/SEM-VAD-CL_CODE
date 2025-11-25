@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos840_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are walking on a moving sidewalk inside of an upscale mall, with shops and glass windows surrounding them from above as they move through the building's atrium-like space"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are walking through a mall, going up and down escalators to different levels of the building with shops on each floor below them as they move around inside an atrium-like structure"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are walking on a moving sidewalk inside of an upscale mall, with shops and escalators visible above them as they move through the building's atrium-like space"
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are walking on a moving sidewalk inside of an upscale mall, with shops and escalators visible above them as they move through the building's multiple levels to reach their"
+    },
+    {
+      "segment_id": 4,
+      "caption": "People are walking through a mall, and some of them have handbags with red straps on their shoulders as they shop for clothes at the stores within that building's three levels or flo"
+    },
+    {
+      "segment_id": 5,
+      "caption": "People are walking on a moving sidewalk inside of an upscale mall, with many shops and windows around them to explore or shop from the comforts indoors while enjoying their"
+    }
+  ]
+}

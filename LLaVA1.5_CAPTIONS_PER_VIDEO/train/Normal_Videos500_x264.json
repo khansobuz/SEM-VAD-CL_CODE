@@ -1,0 +1,26 @@
+{
+  "video": "Normal_Videos500_x264.mp4",
+  "total_segments": 5,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Cars are parked next to a building, and there's an SUV that has been turned on its side by the curb of another car with no driver inside it at nighttime outside"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Cars are parked next to a building, and some of them have their trunks open or hatches up for loading purposes at the storage facility with an overhead door on it's side"
+    },
+    {
+      "segment_id": 2,
+      "caption": "Two cars are parked next to each other, and a truck can be seen behind them on the street outside of an office building or warehouse area with loading docks for vehicles like U"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Cars are parked next to a building, and there's an SUV that has its trunk open on the side of another car with it hanging out into traffic behind them all at"
+    },
+    {
+      "segment_id": 4,
+      "caption": "Two cars are parked next to a truck, and the sunlight shines on them from behind another car doorway at an auto repair shop or garage area with other vehicles present as well"
+    }
+  ]
+}

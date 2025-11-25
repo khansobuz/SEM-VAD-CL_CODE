@@ -1,0 +1,46 @@
+{
+  "video": "Normal_Videos_911_x264.mp4",
+  "total_segments": 10,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a car driving down it and there are traffic lights at the intersection to control vehicle flow, with some of them showing red signals for vehicles approaching from different directions on an overcast day when"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The street has a car driving down it and there are traffic lights at the intersection to control vehicle flow, with some of them showing red signals for vehicles approaching from different directions on an empty city roadway"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The street has a car driving down it and there are people walking on the sidewalk as well, with some of them carrying backpacks or handbags while crossing at an intersection near traffic lights"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Cars are driving down a street with buildings on either side, and there's an intersection ahead where the cars will have to stop or turn right onto another roadway that goes uphill towards"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The car on the street has its headlights turned off as it drives down a city road with other cars and pedestrians around, including people walking near traffic lights at an intersection of streets"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The street has a curve and the sidewalk appears to be empty of people, but there are some potted plants along it that add greenery for pedestrians walking by on their way home"
+    },
+    {
+      "segment_id": 6,
+      "caption": "The street has a curve and the sidewalk appears to be made of bricks, with people walking on it near buildings that have signs posted outside them for advertising purposes or other information relevant at those"
+    },
+    {
+      "segment_id": 7,
+      "caption": "The street has a curve and the traffic light shows that it's safe to cross at an intersection with trees on both sides of roadway, cars are parked along sidewalk near buildings"
+    },
+    {
+      "segment_id": 8,
+      "caption": "The street has a curve and the cars are driving around it, including an SUV on its way to cross over into another lane of traffic at night time with foggy weather conditions outside city buildings"
+    },
+    {
+      "segment_id": 9,
+      "caption": "The street has a curve and the sidewalk next to it appears empty, with no people or vehicles visible on either end of its lengthy stretch down town from an intersection at which traffic lights are present"
+    }
+  ]
+}

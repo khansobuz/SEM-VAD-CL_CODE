@@ -1,0 +1,46 @@
+{
+  "video": "Normal_Videos_903_x264.mp4",
+  "total_segments": 10,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The intersection of a street with cars and pedestrians, including people walking on the sidewalk near stores such as BP gas station or other businesses like restaurants that are visible from above"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The intersection of a street with cars and pedestrians waiting to cross the road at an empty stoplight on top right corner, where there are also some buildings nearby as well"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The intersection of a street with cars and pedestrians waiting to cross the road at an empty gas station on corner, where there are two pumps for fueling vehicles as well"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The intersection of a street with cars and pedestrians waiting to cross the road at an empty stoplight on Main Street, USA"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The intersection of a street with cars and pedestrians waiting to cross the road at an empty stoplight on green light signaling them that it's safe for crossing traffic lights are visible above"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The intersection of a street with cars and pedestrians waiting to cross the road at an empty stoplight on Main Street, USA"
+    },
+    {
+      "segment_id": 6,
+      "caption": "Cars are driving down a street with people walking on the sidewalk and traffic lights at an intersection, including cars turning left onto another roadway or crossing it to get back into their lane after"
+    },
+    {
+      "segment_id": 7,
+      "caption": "The pink bus has stopped at a traffic light, and there are other vehicles on the road as well including cars behind it that have to stop for their turn or wait until they can safely pass by"
+    },
+    {
+      "segment_id": 8,
+      "caption": "The intersection of a street with cars and pedestrians waiting to cross the road at an empty stoplight on green light signaling them that it's safe for crossing traffic lights are visible above"
+    },
+    {
+      "segment_id": 9,
+      "caption": "The car on the road has a license plate that reads \"72.\""
+    }
+  ]
+}

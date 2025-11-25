@@ -1,0 +1,18 @@
+{
+  "video": "RoadAccidents101_x264.mp4",
+  "total_segments": 3,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street appears to be foggy and empty, with a few cars parked along the side of it at nighttime during winter season on an overcast day when there's no sunlight visible"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The street appears to be foggy and wet, with a car driving down the road near an intersection where traffic lights are present at various points along it's length from left side of picture towards right"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The scene shows a car on fire, with the flames visible and smoke rising from it as people watch nearby cars drive by or parked along side of roadway at nighttime during foggy weather"
+    }
+  ]
+}

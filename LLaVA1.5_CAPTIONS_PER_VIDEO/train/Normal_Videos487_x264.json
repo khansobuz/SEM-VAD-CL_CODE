@@ -1,0 +1,26 @@
+{
+  "video": "Normal_Videos487_x264.mp4",
+  "total_segments": 5,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Cars are driving on a street with traffic lights and crosswalks, while pedestrians wait to walk across the intersection at an empty corner of town square where there's no train coming"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The red car on the street has a yellow line painted across it, indicating that no parking or stopping allowed there due to an upcoming train crossing at railroad tracks nearby and pedestrians"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The street has a red car and other cars driving on it, with traffic lights at the intersection to control vehicle flow safely for pedestrians crossing nearby sidewalks or parking lots where people"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The car on the street has a yellow license plate and it's driving down an intersection with other cars around, including some parked along sidewalks near stores or businesses such as Walgre"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The street has a yellow curb and railroad tracks running through it, with cars parked on the side of road near buildings that have signs above them advertising businesses such as restaurants or"
+    }
+  ]
+}

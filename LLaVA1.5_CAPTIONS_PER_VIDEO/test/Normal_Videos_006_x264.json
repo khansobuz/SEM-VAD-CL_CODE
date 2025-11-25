@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos_006_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a lot of cars and people, with some vehicles stopped at an intersection while others are parked or driving through the area near buildings on both sides"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The street has a lot of cars and people, with some vehicles driving down the road while others are parked or stopped at an intersection near stores on both sides"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The street has a lot of cars and trucks driving on it, including some that are parked at the curbside near buildings with signs above them advertising businesses such as groc"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The street has a lot of cars and people walking around, with some pedestrians crossing the road at an intersection near stores on both sides."
+    },
+    {
+      "segment_id": 4,
+      "caption": "The street has a lot of cars and people walking around, with some pedestrians crossing the road at an intersection near stores on both sides."
+    },
+    {
+      "segment_id": 5,
+      "caption": "The street has a lot of cars and people walking around, with some parked on the sidewalk near buildings that are lined up along both sides of it as well at an intersection where vehicles like"
+    }
+  ]
+}

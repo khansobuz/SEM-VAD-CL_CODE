@@ -1,0 +1,998 @@
+{
+  "video": "Normal_Videos559_x264.mp4",
+  "total_segments": 248,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 1,
+      "caption": "The gas station has a lot of chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 2,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an entrance/exit area for vehicles at nighttime"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 6,
+      "caption": "The gas station has a lot of green chairs and black poles, with bikes parked outside the building as well on top of it's roof area above some motorcycles that are"
+    },
+    {
+      "segment_id": 7,
+      "caption": "The gas station has a lot of chairs and bikes outside, with some motorcycles parked nearby as well on the street next to it all around there are many pumps for fueling"
+    },
+    {
+      "segment_id": 8,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 9,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bicycle racks as well on display for customers to use while they refuel their"
+    },
+    {
+      "segment_id": 10,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bicycle racks as well on display for customers to use while they refuel their"
+    },
+    {
+      "segment_id": 11,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 12,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on July second nineteen hundred seventeen o'"
+    },
+    {
+      "segment_id": 13,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs also present around it as well"
+    },
+    {
+      "segment_id": 14,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 15,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 16,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 17,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 18,
+      "caption": "The gas station has a lot of chairs and bikes outside, with some motorcycles parked nearby as well on the street next to it's building entrance area where people are standing around"
+    },
+    {
+      "segment_id": 19,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an entrance/exit area for vehicles at nighttime"
+    },
+    {
+      "segment_id": 20,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on February second twenty sixteen"
+    },
+    {
+      "segment_id": 21,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 22,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an entrance/exit area for vehicles at nighttime"
+    },
+    {
+      "segment_id": 23,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 24,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 25,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street corner near an office building or storefronts that are visible through windows at nighttime"
+    },
+    {
+      "segment_id": 26,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic seats near them while others are standing around or walking by at nighttime during summer"
+    },
+    {
+      "segment_id": 27,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 28,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 29,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on February second twenty sixteen"
+    },
+    {
+      "segment_id": 30,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around it as well for people to sit on while they wait or relax at"
+    },
+    {
+      "segment_id": 31,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around them for people to sit on while they wait or relax before continuing"
+    },
+    {
+      "segment_id": 32,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 33,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on July second nineteen hundred sixty-three"
+    },
+    {
+      "segment_id": 34,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 35,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 36,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 37,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with people sitting at tables under umbrellas inside an enclosed area that also contains pumps for"
+    },
+    {
+      "segment_id": 38,
+      "caption": "The gas station has a lot of green chairs and black poles, with bikes parked outside the building as well"
+    },
+    {
+      "segment_id": 39,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 40,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people sitting on chairs near them while they wait for their turn to refuel or get some"
+    },
+    {
+      "segment_id": 41,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 42,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 43,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 44,
+      "caption": "The gas station has a lot of green chairs and black poles, with bikes parked outside the building as well"
+    },
+    {
+      "segment_id": 45,
+      "caption": "The gas station has a man standing next to the pumps and chairs are placed around it for people waiting at service stations or resting while their vehicles refuel, with bicycles parked"
+    },
+    {
+      "segment_id": 46,
+      "caption": "The man standing next to the gas pumps has a bicycle parked nearby, and there are chairs around him as well."
+    },
+    {
+      "segment_id": 47,
+      "caption": "The man walks through a gas station with his bicycle and motorcycle parked nearby, while the pumps are empty of cars at nighttime on July second twenty sixteen"
+    },
+    {
+      "segment_id": 48,
+      "caption": "The man walks past a gas station with bikes and chairs around it, including green plastic ones on the ground outside of an office building or garage area at night time during daylight"
+    },
+    {
+      "segment_id": 49,
+      "caption": "The man standing outside the gas station has a red bike and green chairs around him, with some of them being empty or unoccupied by people at that moment on his left side while he"
+    },
+    {
+      "segment_id": 50,
+      "caption": "The gas station has a man standing next to the pumps and chairs are placed around it, ready for customers who need fuel or resting spots while travelers stop by at night time on"
+    },
+    {
+      "segment_id": 51,
+      "caption": "The boy walks through a gas station with his bike and green chairs around him, while the pumps are empty of cars at nighttime on April Fool's Day."
+    },
+    {
+      "segment_id": 52,
+      "caption": "The scene shows a gas station with several motorcycles and chairs, as well an individual standing near the center of it all on their skateboard or scooter-like device that res"
+    },
+    {
+      "segment_id": 53,
+      "caption": "The man walks past a gas station with green chairs and motorcycles parked outside of it, as well an orange sign on the sidewalk that says \"can't see\"."
+    },
+    {
+      "segment_id": 54,
+      "caption": "The man standing outside the gas station has a bicycle and motorcycle parked nearby, while he talks on his cell phone to someone else who isn't visible here either way you look"
+    },
+    {
+      "segment_id": 55,
+      "caption": "The gas station has a lot of green chairs and black poles, with bikes parked outside the building as well"
+    },
+    {
+      "segment_id": 56,
+      "caption": "The gas station has a lot of green chairs and black poles, with motorcycles parked outside the building on both sides as well at various spots around it"
+    },
+    {
+      "segment_id": 57,
+      "caption": "The gas station has a lot of green chairs and black poles, with some motorcycles parked nearby on the street outside it's doors"
+    },
+    {
+      "segment_id": 58,
+      "caption": "The man standing next to the gas pumps has a bicycle with him, and there are chairs around as well for people who want some seating while they wait at these fuel stations or"
+    },
+    {
+      "segment_id": 59,
+      "caption": "The man stands near a gas pump and chairs, possibly waiting to be served or just taking some time outdoors at the station while his motorcycle sits nearby on its kickstands"
+    },
+    {
+      "segment_id": 60,
+      "caption": "The gas station has a man standing next to the pumps and chairs are placed around it, with bikes parked nearby as well"
+    },
+    {
+      "segment_id": 61,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around it as well for people to sit on while they wait or relax at"
+    },
+    {
+      "segment_id": 62,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it all day long during winter time at nighttime hours from"
+    },
+    {
+      "segment_id": 63,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an entrance that leads into it's garage"
+    },
+    {
+      "segment_id": 64,
+      "caption": "The gas station has a lot of green chairs and black poles, with motorcycles parked nearby on the street outside it's doors at night time during winter season when there are no"
+    },
+    {
+      "segment_id": 65,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 66,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bikes on top as well"
+    },
+    {
+      "segment_id": 67,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bicycle racks as well on display for customers to use while they refuel their"
+    },
+    {
+      "segment_id": 68,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on July second nineteen hundred seventeen pm according"
+    },
+    {
+      "segment_id": 69,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 70,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also many pumps"
+    },
+    {
+      "segment_id": 71,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street at night time during winter season when it"
+    },
+    {
+      "segment_id": 72,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street at night time during winter season when it"
+    },
+    {
+      "segment_id": 73,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bicycle racks as well on display for customers to use while they refuel their"
+    },
+    {
+      "segment_id": 74,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it all day long during winter time at nighttime hours from"
+    },
+    {
+      "segment_id": 75,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street at night time during winter season when it"
+    },
+    {
+      "segment_id": 76,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also cars parked"
+    },
+    {
+      "segment_id": 77,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an open garage door at nighttime during winter"
+    },
+    {
+      "segment_id": 78,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them on the street next to it's building entrance area where there are also pumps for ref"
+    },
+    {
+      "segment_id": 79,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it all day long during winter time at nighttime hours from"
+    },
+    {
+      "segment_id": 80,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's cold"
+    },
+    {
+      "segment_id": 81,
+      "caption": "The gas station has a man standing next to green chairs and motorcycles parked outside of the pumps, with some cars also present at various spots around it as well on an empty"
+    },
+    {
+      "segment_id": 82,
+      "caption": "The gas station has a lot of motorcycles and chairs, with people standing around them outside the building at nighttime on February second twenty-seventeen"
+    },
+    {
+      "segment_id": 83,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bikes on top as well"
+    },
+    {
+      "segment_id": 84,
+      "caption": "The gas station has a man standing next to it and green chairs are placed around the area, with some motorcycles parked nearby on an empty street at nighttime during winter season of July"
+    },
+    {
+      "segment_id": 85,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an open garage door at nighttime during winter"
+    },
+    {
+      "segment_id": 86,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bikes on top as well"
+    },
+    {
+      "segment_id": 87,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 88,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it all day long during winter time at nighttime hours from"
+    },
+    {
+      "segment_id": 89,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 90,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on their bikes or scooters near pumps at"
+    },
+    {
+      "segment_id": 91,
+      "caption": "The gas station has a man standing next to his motorcycle and green chairs are placed around the area for people waiting at pumps or resting on them while they wait their turn with other vehicles"
+    },
+    {
+      "segment_id": 92,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's cold"
+    },
+    {
+      "segment_id": 93,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an overcast day at night time."
+    },
+    {
+      "segment_id": 94,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it all day long during winter time at nighttime hours from"
+    },
+    {
+      "segment_id": 95,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an overcast day at night time during winter season when"
+    },
+    {
+      "segment_id": 96,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on their bikes or scooters near pumps at"
+    },
+    {
+      "segment_id": 97,
+      "caption": "The gas station has a lot of motorcycles and chairs, with people standing around them outside the building on an asphalt roadway area near some buildings that have windows at various heights"
+    },
+    {
+      "segment_id": 98,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they are parked at night time during"
+    },
+    {
+      "segment_id": 99,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 100,
+      "caption": "The gas station has a man standing next to the pumps and green chairs are scattered around outside of it, with some motorcycles parked nearby as well"
+    },
+    {
+      "segment_id": 101,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 102,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some cars also present on site as well"
+    },
+    {
+      "segment_id": 103,
+      "caption": "The gas station has a man standing next to the pumps and green chairs are placed around it, ready for customers who need them while they refuel their vehicles or motorcycles at nighttime"
+    },
+    {
+      "segment_id": 104,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 105,
+      "caption": "The gas station has a lot of motorcycles and chairs, but no people are visible at the moment on camera viewing time stamped as July2015"
+    },
+    {
+      "segment_id": 106,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people walking around inside it as well on an overcast day at noon time during summer"
+    },
+    {
+      "segment_id": 107,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some cars parked nearby as well on the street next to it."
+    },
+    {
+      "segment_id": 108,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some cars also present on site as well"
+    },
+    {
+      "segment_id": 109,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some cars parked nearby as well on the street next to it"
+    },
+    {
+      "segment_id": 110,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some cars also present on site as well."
+    },
+    {
+      "segment_id": 111,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some bikes on top as well"
+    },
+    {
+      "segment_id": 112,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some cars also present on site as well."
+    },
+    {
+      "segment_id": 113,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to each other on the sidewalk near an open garage door at nighttime during winter"
+    },
+    {
+      "segment_id": 114,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some cars also present on site as well"
+    },
+    {
+      "segment_id": 115,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street near it's entrance area where there"
+    },
+    {
+      "segment_id": 116,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some cars also present on site as well"
+    },
+    {
+      "segment_id": 117,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people walking around the area near them on foot or riding bikes through it all day long everyday for years now"
+    },
+    {
+      "segment_id": 118,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building area where they are parked at night time during winter"
+    },
+    {
+      "segment_id": 119,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well."
+    },
+    {
+      "segment_id": 120,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during summer time when it's dark"
+    },
+    {
+      "segment_id": 121,
+      "caption": "The gas station has a lot of motorcycles and chairs, with some people standing around them outside the building at nighttime on July second nineteen hundred seventeen pm to be exact according"
+    },
+    {
+      "segment_id": 122,
+      "caption": "The gas station has a lot of motorcycles and chairs, but no people are visible at the moment on camera viewing time stamped as March-2016"
+    },
+    {
+      "segment_id": 123,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their bikes filled up"
+    },
+    {
+      "segment_id": 124,
+      "caption": "The gas station has a lot of motorcycles and chairs, but no people are visible at the moment on camera viewing time stamped as March-2016"
+    },
+    {
+      "segment_id": 125,
+      "caption": "The gas station has a lot of motorcycles and chairs, with people standing around them outside the building on an empty street at nighttime during winter season when it's cold outdoors"
+    },
+    {
+      "segment_id": 126,
+      "caption": "The gas station has a lot of motorcycles and chairs, with some people standing around them outside the building on an empty street corner at nighttime during winter season when it's cold out"
+    },
+    {
+      "segment_id": 127,
+      "caption": "The gas station has a lot of motorcycles and chairs, but no people are visible at the moment on camera viewing time stamped as June-2015"
+    },
+    {
+      "segment_id": 128,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's cold"
+    },
+    {
+      "segment_id": 129,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during summer time when it's dark"
+    },
+    {
+      "segment_id": 130,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also many cars park"
+    },
+    {
+      "segment_id": 131,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building area where they are parked at night time during winter"
+    },
+    {
+      "segment_id": 132,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's cold"
+    },
+    {
+      "segment_id": 133,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 134,
+      "caption": "The gas station has a lot of motorcycles and chairs, but no people are visible at the moment on camera's viewpoint from above ground level looking down into an empty parking area"
+    },
+    {
+      "segment_id": 135,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it all day long during winter time at nighttime hours from"
+    },
+    {
+      "segment_id": 136,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 137,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 138,
+      "caption": "The gas station has a lot of motorcycles and chairs, with some people standing around them outside the building on an empty street corner at nighttime during winter season when it's cold out"
+    },
+    {
+      "segment_id": 139,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also many bikes"
+    },
+    {
+      "segment_id": 140,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building that sells fuel for vehicles like cars"
+    },
+    {
+      "segment_id": 141,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 142,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street next to it all day long during summer"
+    },
+    {
+      "segment_id": 143,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also pumps for"
+    },
+    {
+      "segment_id": 144,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 145,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during summer time when it's dark"
+    },
+    {
+      "segment_id": 146,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also pumps for"
+    },
+    {
+      "segment_id": 147,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 148,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 149,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 150,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also cars parked"
+    },
+    {
+      "segment_id": 151,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also pumps for"
+    },
+    {
+      "segment_id": 152,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 153,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 154,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also many cars park"
+    },
+    {
+      "segment_id": 155,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street near it's entrance to pump"
+    },
+    {
+      "segment_id": 156,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 157,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well."
+    },
+    {
+      "segment_id": 158,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building that sells fuel for vehicles like cars"
+    },
+    {
+      "segment_id": 159,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building that sells fuel for vehicles like cars"
+    },
+    {
+      "segment_id": 160,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building area where they are parked at night time during winter"
+    },
+    {
+      "segment_id": 161,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well."
+    },
+    {
+      "segment_id": 162,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 163,
+      "caption": "The gas station has a lot of motorcycles and chairs, with some people sitting on the green plastic seats outside while others are standing around or inside their vehicles at various pumps for ref"
+    },
+    {
+      "segment_id": 164,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 165,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building area where they are parked at night time during winter"
+    },
+    {
+      "segment_id": 166,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people sitting on the green plastic seats near pumps at nighttime during winter season when it's cold outdo"
+    },
+    {
+      "segment_id": 167,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 168,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their fuel or other services"
+    },
+    {
+      "segment_id": 169,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 170,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's cold out"
+    },
+    {
+      "segment_id": 171,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 172,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building entrance area where they can get their bikes filled up"
+    },
+    {
+      "segment_id": 173,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 174,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on July second nineteen hundred seventy-three"
+    },
+    {
+      "segment_id": 175,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 176,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 177,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 178,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around them for people to sit on while they wait or relax before continuing"
+    },
+    {
+      "segment_id": 179,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around it as well for people to sit on while they wait or relax at"
+    },
+    {
+      "segment_id": 180,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on July second nineteen hundred seventy-three"
+    },
+    {
+      "segment_id": 181,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around them for people to sit on while they wait or relax before continuing"
+    },
+    {
+      "segment_id": 182,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around it as well for people to sit on while they wait or relax at"
+    },
+    {
+      "segment_id": 183,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around them for people to sit on while they wait or relax before continuing"
+    },
+    {
+      "segment_id": 184,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also bikes park"
+    },
+    {
+      "segment_id": 185,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 186,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also bicycle"
+    },
+    {
+      "segment_id": 187,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 188,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 189,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking by at night"
+    },
+    {
+      "segment_id": 190,
+      "caption": "The gas station has a lot of green chairs and black poles, with motorcycles parked outside the building on both sides as well at various distances from each other inside it's prem"
+    },
+    {
+      "segment_id": 191,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 192,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 193,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also many cars park"
+    },
+    {
+      "segment_id": 194,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people sitting on them while others are standing around or walking by it's entrance doorway"
+    },
+    {
+      "segment_id": 195,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 196,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street at night time during summer season when it"
+    },
+    {
+      "segment_id": 197,
+      "caption": "The gas station has a lot of green chairs and black poles, with some motorcycles parked nearby on the dirt ground outside an office building or garage area at night time during"
+    },
+    {
+      "segment_id": 198,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 199,
+      "caption": "The gas station has a lot of chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 200,
+      "caption": "The gas station has a lot of chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street at night time during winter season when it'"
+    },
+    {
+      "segment_id": 201,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's dark out"
+    },
+    {
+      "segment_id": 202,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during winter season when it's cold"
+    },
+    {
+      "segment_id": 203,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with some motorcycles also present on site as well"
+    },
+    {
+      "segment_id": 204,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 205,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some bikes parked next to the pumps at nighttime on February second twenty sixteen"
+    },
+    {
+      "segment_id": 206,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well on the street next to it's building area where there are also many cars park"
+    },
+    {
+      "segment_id": 207,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 208,
+      "caption": "The gas station has a lot of chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 209,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well on an empty street at night time during winter season when it"
+    },
+    {
+      "segment_id": 210,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking through it all"
+    },
+    {
+      "segment_id": 211,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic lawn furniture near them while others are standing around or walking by at night"
+    },
+    {
+      "segment_id": 212,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 213,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people sitting on them while others are standing around or walking by it's entrance doorway"
+    },
+    {
+      "segment_id": 214,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 215,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 216,
+      "caption": "The gas station has a lot of green chairs and motorcycles parked outside the building, with people standing around them on an empty street at nighttime during summer time when it's dark"
+    },
+    {
+      "segment_id": 217,
+      "caption": "The gas station has a lot of green chairs and bikes parked outside the building, with people standing around them on an empty street at nighttime during summer time when it's dark out"
+    },
+    {
+      "segment_id": 218,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street next to it's building"
+    },
+    {
+      "segment_id": 219,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people standing around them as well"
+    },
+    {
+      "segment_id": 220,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with some people sitting on the green plastic seats near them while others are standing around or walking through it all day long at"
+    },
+    {
+      "segment_id": 221,
+      "caption": "People are sitting at tables outside of a gas station, with motorcycles and bicycle parked nearby on the street sidewalk area near an island countertops setup for convenience store services to"
+    },
+    {
+      "segment_id": 222,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on an empty street at night time during summer season"
+    },
+    {
+      "segment_id": 223,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people sitting at tables under umbrellas inside it's garage area while pumps"
+    },
+    {
+      "segment_id": 224,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some people sitting on chairs nearby while others are standing around them at night time during summer season"
+    },
+    {
+      "segment_id": 225,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some people sitting at tables under umbrellas near pumps for refueling their vehicles"
+    },
+    {
+      "segment_id": 226,
+      "caption": "People are standing around a gas station with motorcycles and bicycle parked nearby, while the pumps have been turned off for maintenance purposes during daytime hours on April second of last year"
+    },
+    {
+      "segment_id": 227,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people sitting on chairs near them while pumps are visible inside for refueling vehicles or"
+    },
+    {
+      "segment_id": 228,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people sitting at tables under umbrellas near pumps for refueling their vehicles or"
+    },
+    {
+      "segment_id": 229,
+      "caption": "People are standing around a gas station, and there's an electric motorcycle parked nearby with its seat up on the back of it as well some chairs outside near pumps at night time"
+    },
+    {
+      "segment_id": 230,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on their cell phones or talking to each other while they wait for fuel"
+    },
+    {
+      "segment_id": 231,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the pumps, with people standing around them waiting to be served at an outdoor cafe area that also serves"
+    },
+    {
+      "segment_id": 232,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 233,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some people standing around them near pumps for fueling up their vehicles or rest areas to sit"
+    },
+    {
+      "segment_id": 234,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on an asphalt roadway near some green chairs that are placed"
+    },
+    {
+      "segment_id": 235,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some people standing around them as well"
+    },
+    {
+      "segment_id": 236,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on an asphalt roadway near pumps for refueling vehicles"
+    },
+    {
+      "segment_id": 237,
+      "caption": "People are sitting at a gas station, and there's an electric motorcycle parked nearby with its kickstand down on the ground next to it as well another bike that has been left un"
+    },
+    {
+      "segment_id": 238,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on their way to refuel or get some food from nearby vendors at"
+    },
+    {
+      "segment_id": 239,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around as well for people to sit on while they wait or relax at their"
+    },
+    {
+      "segment_id": 240,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street corner near an office building or storefronts that are visible through windows at nighttime"
+    },
+    {
+      "segment_id": 241,
+      "caption": "The gas station has a few motorcycles and bicycle parked outside of it, with people standing around the area near some chairs that are placed on top of crates or pallets"
+    },
+    {
+      "segment_id": 242,
+      "caption": "The gas station has a lot of motorcycles and chairs outside, with people standing around them on the street corner near an orange building that says \"BP.\""
+    },
+    {
+      "segment_id": 243,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some chairs placed around for people to sit on while they wait or relax at their vehicles before"
+    },
+    {
+      "segment_id": 244,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on an empty street corner near some buildings that have blue trimming at their"
+    },
+    {
+      "segment_id": 245,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with people standing around them on an empty street at night time during winter season when it's cold"
+    },
+    {
+      "segment_id": 246,
+      "caption": "The gas station has a lot of motorcycles and bicycle parked outside the building, with some people standing around them on an empty street near buildings that have windows open to let air circul"
+    },
+    {
+      "segment_id": 247,
+      "caption": "The gas station has a few motorcycles and chairs, with people sitting at the tables outside of it on an empty street corner during daytime hours when there are no customers around to use them"
+    }
+  ]
+}

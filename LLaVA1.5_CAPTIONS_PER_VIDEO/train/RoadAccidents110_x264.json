@@ -1,0 +1,30 @@
+{
+  "video": "RoadAccidents110_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are riding bicycles down a street, and there's also some people standing on the sidewalk with their handbags or backpacks nearby them as they watch others ride by"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are standing on a street corner, and there's an accident involving two motorcycles nearby with some people gathered around them to look at the scene of accidents that occurred between these vehicles as"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are walking down a street, some of them on bicycles and motorcyles while others walk or ride scooters through the city streets with buildings around it all day long as they go"
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are walking down a street, some of them carrying bags and handbags while others ride motorcycles or scooters on the sidewalk near parked cars with people standing around outside"
+    },
+    {
+      "segment_id": 4,
+      "caption": "People are walking down a street, some of them carrying items like handbags and backpacks while others ride bicycles or motorcycless through the area with shops on both sides"
+    },
+    {
+      "segment_id": 5,
+      "caption": "People are standing on a street corner, and some of them have their arms raised above the crowd as if they're trying to get attention or make an announcement over it all while others look at"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "video": "Normal_Videos_063_x264.mp4",
+  "total_segments": 4,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "People are shopping at a grocery store, with some of them checking out items and others browsing the produce section or standing around cash registers waiting to pay for their purchases"
+    },
+    {
+      "segment_id": 1,
+      "caption": "People are shopping at a grocery store, with some of them standing around the cash register area and others browsing through various sections within the marketplace setting up for Christmas sales on Black"
+    },
+    {
+      "segment_id": 2,
+      "caption": "People are shopping at a grocery store, with some of them waiting to be served by the cashier and others browsing through items on shelves or baskets near check"
+    },
+    {
+      "segment_id": 3,
+      "caption": "People are shopping at a grocery store, with some of them standing around the cash register area and others browsing through various sections within the marketplace setting up their baskets to"
+    }
+  ]
+}

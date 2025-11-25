@@ -1,0 +1,38 @@
+{
+  "video": "Normal_Videos_913_x264.mp4",
+  "total_segments": 8,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a few cars parked on the side and some driving down it, with trees lining both sides of roadway as well an intersection at which two vehicles are stopped waiting for their turn"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Cars are driving down a street with houses on the side, and there's also some grass visible near them as well."
+    },
+    {
+      "segment_id": 2,
+      "caption": "The car on the road has a license plate that reads \"2013\"."
+    },
+    {
+      "segment_id": 3,
+      "caption": "The white truck with a flatbed on the back drives down an empty street, passing by parked cars and houses along its way to another intersection where it will turn left onto Main Street at approximately"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The street has a white car driving down it and there are two other cars parked on the side of road, as well an intersection with traffic lights at both ends to control vehicle flow through town streets"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The street has a tree and cars driving on it, with the sun shining down from above onto both sides of roadway at an intersection where traffic lights are present to control vehicle flow through that area"
+    },
+    {
+      "segment_id": 6,
+      "caption": "The street has a yellow line and cars are driving on it, including red ones that have just passed by the camera's viewpoint at an intersection with trees nearby as well as some bushes near"
+    },
+    {
+      "segment_id": 7,
+      "caption": "The side of a building with yellow caution tape on the ground and bushes outside, as well trees near bye"
+    }
+  ]
+}

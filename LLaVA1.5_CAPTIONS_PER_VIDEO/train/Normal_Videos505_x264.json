@@ -1,0 +1,34 @@
+{
+  "video": "Normal_Videos505_x264.mp4",
+  "total_segments": 7,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "Cars are parked on the side of a street, and some have license plates visible through their windows or windshields as they sit next to each other outside an office building with trees"
+    },
+    {
+      "segment_id": 1,
+      "caption": "Cars are parked on the side of a street, and there's also an orange truck nearby with its back facing us as well some other vehicles behind it that we can see through windows"
+    },
+    {
+      "segment_id": 2,
+      "caption": "Cars are parked on the side of a road, and there's also an old truck present among them as well with its door open to load or unload something from it onto another"
+    },
+    {
+      "segment_id": 3,
+      "caption": "Cars are parked on the side of a street, and there's an orange sign that says \"no parking.\""
+    },
+    {
+      "segment_id": 4,
+      "caption": "Cars are parked on the side of a street, and some have license plates visible through their windows or windshields as they sit next to each other outside an office building with trees"
+    },
+    {
+      "segment_id": 5,
+      "caption": "Cars are parked on the side of a street, and some have license plates visible through their windows or windshields as they sit next to each other outside an office building with trees"
+    },
+    {
+      "segment_id": 6,
+      "caption": "Cars are parked on the side of a street, and some have license plates visible through their windows or windshields as they sit next to each other outside an office building with trees"
+    }
+  ]
+}

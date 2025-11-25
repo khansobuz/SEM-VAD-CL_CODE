@@ -1,0 +1,30 @@
+{
+  "video": "Normal_Videos_831_x264.mp4",
+  "total_segments": 6,
+  "captions": [
+    {
+      "segment_id": 0,
+      "caption": "The street has a few cars parked on it and some are driving by, including trucks as well"
+    },
+    {
+      "segment_id": 1,
+      "caption": "The white van parked on the side of a road with other cars and trucks nearby, including some that are driving by or stopped at an intersection near buildings behind them all."
+    },
+    {
+      "segment_id": 2,
+      "caption": "The van has pulled up to the mailbox and parked on a street with other cars nearby, including some that are driving away from it at an intersection near trees outside of buildings or houses where people"
+    },
+    {
+      "segment_id": 3,
+      "caption": "The van has pulled up to the mailbox and a gate, with other cars parked nearby on both sides of it's pathway down an alley way between buildings"
+    },
+    {
+      "segment_id": 4,
+      "caption": "The white van has pulled into the parking lot and stopped at a mailbox on its side of road, while other cars are parked around it as well with some trucks nearby too"
+    },
+    {
+      "segment_id": 5,
+      "caption": "The van has pulled up to the gate and stopped, waiting for someone or something on a street with other cars parked nearby at an intersection of roads near some buildings that are fenced off from public"
+    }
+  ]
+}
