@@ -1,8 +1,3 @@
-"""
-TW-VAD Caption Version for UCF (Improved for higher AUC)
-SFE + EAS (prototype + CoT) + ACM (continual learning)
-Target: AUC >= 0.88
-"""
 
 import os
 import json
